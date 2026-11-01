@@ -383,11 +383,16 @@ def generate_svg(stats=None):
     for item in soc_items:
         sw = item["w"]
         s_icon = ICONS.get(item["icon"], ICONS["github"])
-        svg_parts.append(f'  <g transform="translate({cur_soc_x}, {soc_y})">')
-        svg_parts.append(f'    <rect width="{sw}" height="{soc_h}" rx="8" class="badge-pill"/>')
-        svg_parts.append(f'    <g transform="translate(10, 8) scale(0.9)">{s_icon}</g>')
-        svg_parts.append(f'    <text x="32" y="20" class="font-main badge-text">{escape(item["name"])}</text>')
-        svg_parts.append(f'  </g>')
+        s_url = escape(item["url"])
+        if item["icon"] == "email" and not s_url.startswith("mailto:"):
+            s_url = f"mailto:{s_url}"
+        svg_parts.append(f'  <a href="{s_url}" target="_blank">')
+        svg_parts.append(f'    <g transform="translate({cur_soc_x}, {soc_y})">')
+        svg_parts.append(f'      <rect width="{sw}" height="{soc_h}" rx="8" class="badge-pill"/>')
+        svg_parts.append(f'      <g transform="translate(10, 8) scale(0.9)">{s_icon}</g>')
+        svg_parts.append(f'      <text x="32" y="20" class="font-main badge-text">{escape(item["name"])}</text>')
+        svg_parts.append(f'    </g>')
+        svg_parts.append(f'  </a>')
         cur_soc_x += sw + 12
 
     svg_parts.append("</svg>")
