@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-01T21:00:45.843263+07:00",
+  "processed_at": "2026-11-01T21:04:13.497802+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,56 +71,56 @@
     }
   },
   "card1_last_active": {
-    "value": "2 hari lalu",
+    "value": "2 menit lalu",
     "subtitle": "aktivitas publik terbaru",
-    "repo": "web_prof"
+    "repo": "Zakkyaulia"
   },
   "card2_month_contributions": {
-    "value": "0",
+    "value": "2",
     "subtitle": "total sejak awal bulan"
   },
   "card3_year_contributions": {
-    "percentage": 49,
-    "total_year": 86,
-    "total_lifetime": 177,
+    "percentage": 79,
+    "total_year": 88,
+    "total_lifetime": 112,
     "subtitle": "dari seluruh\nkontribusi"
   },
   "card4_recent_repo": {
-    "name": "web_prof",
-    "language": "TypeScript",
-    "language_color": "#3178c6",
-    "relative_time": "2 hari lalu"
+    "name": "Zakkyaulia",
+    "language": "Python",
+    "language_color": "#3572a5",
+    "relative_time": "baru saja"
   },
   "languages": [
     {
       "name": "Dart",
       "count": 7941,
       "color": "#00b4ab",
-      "percentage": 52
+      "percentage": 48
     },
     {
       "name": "TypeScript",
       "count": 3604,
       "color": "#3178c6",
-      "percentage": 24
+      "percentage": 22
+    },
+    {
+      "name": "Python",
+      "count": 1642,
+      "color": "#3572a5",
+      "percentage": 10
     },
     {
       "name": "CSS",
       "count": 1417,
       "color": "#563d7c",
-      "percentage": 9
-    },
-    {
-      "name": "C++",
-      "count": 650,
-      "color": "#f34b7d",
-      "percentage": 4
+      "percentage": 8
     },
     {
       "name": "Lainnya",
-      "count": 1711,
+      "count": 2034,
       "color": "#8b949e",
-      "percentage": 11
+      "percentage": 12
     }
   ],
   "heatmap": {
@@ -897,8 +897,8 @@
         },
         {
           "date": "2026-11-01",
-          "count": 0,
-          "level": 0,
+          "count": 2,
+          "level": 2,
           "weekday": 6,
           "day": 1,
           "month": 11,
@@ -924,16 +924,16 @@
       "relative_time": "2 hari lalu"
     },
     {
-      "action": "Menggabungkan pull request",
+      "action": "Mengirim perubahan kode",
       "repo": "pemobKilas",
-      "icon": "pull_request",
+      "icon": "commit",
       "relative_time": "5 hari lalu"
     },
     {
-      "action": "Membuat repositori baru",
-      "repo": "biTBdsi",
-      "icon": "repo",
-      "relative_time": "2 bulan lalu"
+      "action": "Mengirim perubahan kode",
+      "repo": "web_prof",
+      "icon": "commit",
+      "relative_time": "7 hari lalu"
     }
   ]
 }

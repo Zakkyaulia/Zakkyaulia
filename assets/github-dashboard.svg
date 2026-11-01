@@ -40,58 +40,58 @@
   <!-- Card 1: Last Active -->
   <rect x="24" y="104" width="212" height="124" rx="12" class="card-bg"/>
   <text x="42" y="134" class="font-main text-label">Terakhir aktif</text>
-  <text x="42" y="172" font-size="24" class="font-main text-stat">2 hari lalu</text>
+  <text x="42" y="172" font-size="24" class="font-main text-stat">2 menit lalu</text>
   <text x="42" y="202" font-size="12" class="font-main text-subtitle">aktivitas publik terbaru</text>
   <!-- Card 2: Contributions This Month -->
   <rect x="250" y="104" width="212" height="124" rx="12" class="card-bg"/>
   <text x="268" y="134" class="font-main text-label">Kontribusi bulan ini</text>
-  <text x="268" y="172" font-size="28" class="font-main text-stat">0</text>
+  <text x="268" y="172" font-size="28" class="font-main text-stat">2</text>
   <text x="268" y="202" font-size="12" class="font-main text-subtitle">total sejak awal bulan</text>
   <!-- Card 3: Contributions This Year -->
   <rect x="476" y="104" width="212" height="124" rx="12" class="card-bg"/>
   <text x="494" y="134" class="font-main text-label">Kontribusi tahun ini</text>
   <circle cx="522" cy="174" r="24" stroke="#21262d" stroke-width="5" fill="none"/>
-  <circle cx="522" cy="174" r="24" stroke="#388bfd" stroke-width="5" stroke-linecap="round" fill="none" stroke-dasharray="150.8" stroke-dashoffset="76.91" transform="rotate(-90 522 174)"/>
-  <text x="522" y="179" text-anchor="middle" font-size="13" font-weight="700" class="font-main text-stat">49%</text>
+  <circle cx="522" cy="174" r="24" stroke="#388bfd" stroke-width="5" stroke-linecap="round" fill="none" stroke-dasharray="150.8" stroke-dashoffset="31.67" transform="rotate(-90 522 174)"/>
+  <text x="522" y="179" text-anchor="middle" font-size="13" font-weight="700" class="font-main text-stat">79%</text>
   <text x="562" y="170" font-size="12" class="font-main text-subtitle">dari seluruh</text>
   <text x="562" y="186" font-size="12" class="font-main text-subtitle">kontribusi</text>
   <!-- Card 4: Recently Updated Repository -->
   <rect x="702" y="104" width="212" height="124" rx="12" class="card-bg"/>
   <text x="720" y="134" class="font-main text-label">Repo terakhir diperbarui</text>
-  <text x="720" y="170" font-size="18" class="font-main text-stat">web_prof</text>
-  <circle cx="724" cy="198" r="4.5" fill="#3178c6"/>
-  <text x="734" y="202" font-size="12" class="font-main text-subtitle">TypeScript · 2 hari lalu</text>
+  <text x="720" y="170" font-size="18" class="font-main text-stat">Zakkyaulia</text>
+  <circle cx="724" cy="198" r="4.5" fill="#3572a5"/>
+  <text x="734" y="202" font-size="12" class="font-main text-subtitle">Python · baru saja</text>
   <!-- SECTION C: Programming Languages Stacked Bar -->
   <rect x="24" y="244" width="438" height="352" rx="12" class="card-bg"/>
   <text x="48" y="280" font-size="15" font-weight="600" class="font-main text-title">Bahasa yang dipakai, 3 bulan terakhir</text>
   <g clip-path="url(#lang-bar-clip)">
     <rect x="48" y="304" width="390" height="16" fill="#21262d"/>
-    <rect x="48.00" y="304" width="202.80" height="16" fill="#00b4ab"/>
-    <rect x="250.80" y="304" width="93.60" height="16" fill="#3178c6"/>
-    <rect x="344.40" y="304" width="35.10" height="16" fill="#563d7c"/>
-    <rect x="379.50" y="304" width="15.60" height="16" fill="#f34b7d"/>
-    <rect x="395.10" y="304" width="42.90" height="16" fill="#8b949e"/>
+    <rect x="48.00" y="304" width="187.20" height="16" fill="#00b4ab"/>
+    <rect x="235.20" y="304" width="85.80" height="16" fill="#3178c6"/>
+    <rect x="321.00" y="304" width="39.00" height="16" fill="#3572a5"/>
+    <rect x="360.00" y="304" width="31.20" height="16" fill="#563d7c"/>
+    <rect x="391.20" y="304" width="46.80" height="16" fill="#8b949e"/>
   </g>
   <rect x="48" y="304" width="390" height="16" rx="7" fill="none" stroke="#30363d" stroke-width="1"/>
   <circle cx="56" cy="344" r="5" fill="#00b4ab"/>
   <text x="72" y="348" class="font-main legend-item">Dart</text>
-  <text x="438" y="348" text-anchor="end" class="font-main legend-pct">52%</text>
+  <text x="438" y="348" text-anchor="end" class="font-main legend-pct">48%</text>
   <line x1="48" y1="364" x2="438" y2="364" class="divider"/>
   <circle cx="56" cy="388" r="5" fill="#3178c6"/>
   <text x="72" y="392" class="font-main legend-item">TypeScript</text>
-  <text x="438" y="392" text-anchor="end" class="font-main legend-pct">24%</text>
+  <text x="438" y="392" text-anchor="end" class="font-main legend-pct">22%</text>
   <line x1="48" y1="408" x2="438" y2="408" class="divider"/>
-  <circle cx="56" cy="432" r="5" fill="#563d7c"/>
-  <text x="72" y="436" class="font-main legend-item">CSS</text>
-  <text x="438" y="436" text-anchor="end" class="font-main legend-pct">9%</text>
+  <circle cx="56" cy="432" r="5" fill="#3572a5"/>
+  <text x="72" y="436" class="font-main legend-item">Python</text>
+  <text x="438" y="436" text-anchor="end" class="font-main legend-pct">10%</text>
   <line x1="48" y1="452" x2="438" y2="452" class="divider"/>
-  <circle cx="56" cy="476" r="5" fill="#f34b7d"/>
-  <text x="72" y="480" class="font-main legend-item">C++</text>
-  <text x="438" y="480" text-anchor="end" class="font-main legend-pct">4%</text>
+  <circle cx="56" cy="476" r="5" fill="#563d7c"/>
+  <text x="72" y="480" class="font-main legend-item">CSS</text>
+  <text x="438" y="480" text-anchor="end" class="font-main legend-pct">8%</text>
   <line x1="48" y1="496" x2="438" y2="496" class="divider"/>
   <circle cx="56" cy="520" r="5" fill="#8b949e"/>
   <text x="72" y="524" class="font-main legend-item">Lainnya</text>
-  <text x="438" y="524" text-anchor="end" class="font-main legend-pct">11%</text>
+  <text x="438" y="524" text-anchor="end" class="font-main legend-pct">12%</text>
   <!-- SECTION D: 12-Week Contribution Heatmap -->
   <rect x="478" y="244" width="438" height="352" rx="12" class="card-bg"/>
   <text x="502" y="280" font-size="15" font-weight="600" class="font-main text-title">Aktivitas 12 minggu</text>
@@ -182,7 +182,7 @@
   <rect x="850" y="418" width="23" height="23" rx="4" fill="#21262d"/>
   <rect x="850" y="448" width="23" height="23" rx="4" fill="#006d32"/>
   <rect x="850" y="478" width="23" height="23" rx="4" fill="#21262d"/>
-  <rect x="850" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="850" y="508" width="23" height="23" rx="4" fill="#006d32"/>
   <text x="520" y="566" font-size="12" class="font-main text-subtitle">Aktif 6 dari 12 minggu</text>
   <text x="695" y="566" font-size="12" class="font-main text-subtitle">Sedikit</text>
   <rect x="750" y="556" width="11" height="11" rx="2" fill="#21262d"/>
@@ -198,13 +198,13 @@
   <text x="68" y="666" font-size="13" class="font-main text-title">Mengirim perubahan kode <tspan font-weight="400" fill="#8b949e">· web_prof</tspan></text>
   <text x="896" y="666" text-anchor="end" font-size="12" class="font-main text-subtitle">2 hari lalu</text>
   <line x1="44" y1="676" x2="896" y2="676" class="divider"/>
-  <g transform="translate(44, 684) scale(0.9)"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.128a2.251 2.251 0 11-1.5 0V6.5a2.5 2.5 0 00-2.5-2.5h-1V2.5z" fill="#8b949e"/></g>
-  <text x="68" y="696" font-size="13" class="font-main text-title">Menggabungkan pull request <tspan font-weight="400" fill="#8b949e">· pemobKilas</tspan></text>
+  <g transform="translate(44, 684) scale(0.9)"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" fill="#8b949e"/></g>
+  <text x="68" y="696" font-size="13" class="font-main text-title">Mengirim perubahan kode <tspan font-weight="400" fill="#8b949e">· pemobKilas</tspan></text>
   <text x="896" y="696" text-anchor="end" font-size="12" class="font-main text-subtitle">5 hari lalu</text>
   <line x1="44" y1="706" x2="896" y2="706" class="divider"/>
-  <g transform="translate(44, 714) scale(0.9)"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1h-8a1 1 0 00-1 1v6.708A2.486 2.486 0 014.5 9h8V1.5zM5 12.25a.25.25 0 01.25-.25H12v1.5H5.25a.25.25 0 01-.25-.25z" fill="#8b949e"/></g>
-  <text x="68" y="726" font-size="13" class="font-main text-title">Membuat repositori baru <tspan font-weight="400" fill="#8b949e">· biTBdsi</tspan></text>
-  <text x="896" y="726" text-anchor="end" font-size="12" class="font-main text-subtitle">2 bulan lalu</text>
+  <g transform="translate(44, 714) scale(0.9)"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" fill="#8b949e"/></g>
+  <text x="68" y="726" font-size="13" class="font-main text-title">Mengirim perubahan kode <tspan font-weight="400" fill="#8b949e">· web_prof</tspan></text>
+  <text x="896" y="726" text-anchor="end" font-size="12" class="font-main text-subtitle">7 hari lalu</text>
   <!-- SECTION F: Social Badges -->
   <g transform="translate(24, 766)">
     <rect width="96" height="32" rx="8" class="badge-pill"/>
