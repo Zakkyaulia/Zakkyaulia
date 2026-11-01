@@ -1,0 +1,109 @@
+{
+  "username": "Zakkyaulia",
+  "display_name": "Zakky Aulia Aldrin",
+  "subtitle": "Mahasiswa Sistem Informasi · Universitas Andalas",
+  "collaboration_status": "Terbuka untuk kolaborasi",
+  "collaboration_available": true,
+  "timezone": "Asia/Jakarta",
+  "locale": "id",
+  "language_reporting_period_days": 90,
+  "social_links": {
+    "linkedin": "https://linkedin.com/in/zakky-aulia-aldrin",
+    "email": "zakkyaulialdrin@gmail.com",
+    "instagram": "https://instagram.com/jakieeey_",
+    "github": "https://github.com/Zakkyaulia"
+  },
+  "exclude_bots": [
+    "github-actions[bot]",
+    "dependabot[bot]",
+    "actions-user",
+    "antigravity-bot",
+    "web-flow"
+  ],
+  "translations": {
+    "id": {
+      "last_active_title": "Terakhir aktif",
+      "last_active_sub": "aktivitas publik terbaru",
+      "month_contributions_title": "Kontribusi bulan ini",
+      "month_contributions_sub": "total sejak awal bulan",
+      "year_contributions_title": "Kontribusi tahun ini",
+      "year_contributions_sub": "dari seluruh\nkontribusi",
+      "recent_repo_title": "Repo terakhir diperbarui",
+      "languages_title": "Bahasa yang dipakai, 3 bulan terakhir",
+      "activity_title": "Aktivitas 12 minggu",
+      "active_weeks_prefix": "Aktif",
+      "active_weeks_suffix": "dari 12 minggu",
+      "less": "Sedikit",
+      "more": "Banyak",
+      "recent_activities_title": "Aktivitas terbaru",
+      "months": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"],
+      "activity_actions": {
+        "pushed_commits": "Mengirim perubahan kode",
+        "merged_pr": "Menggabungkan pull request",
+        "opened_pr": "Membuka pull request",
+        "created_repo": "Membuat repositori baru",
+        "created_branch": "Membuat branch baru",
+        "opened_issue": "Membuka issue baru",
+        "published_release": "Menerbitkan rilis baru",
+        "starred_repo": "Memberikan bintang repositori",
+        "forked_repo": "Melakukan fork repositori"
+      },
+      "time_units": {
+        "just_now": "baru saja",
+        "minute": "menit lalu",
+        "minutes": "menit lalu",
+        "hour": "jam lalu",
+        "hours": "jam lalu",
+        "yesterday": "kemarin",
+        "day": "hari lalu",
+        "days": "hari lalu",
+        "month": "bulan lalu",
+        "months": "bulan lalu",
+        "year": "tahun lalu",
+        "years": "tahun lalu"
+      }
+    },
+    "en": {
+      "last_active_title": "Last Active",
+      "last_active_sub": "latest qualifying commit",
+      "month_contributions_title": "Contributions This Month",
+      "month_contributions_sub": "total since start of month",
+      "year_contributions_title": "Contributions This Year",
+      "year_contributions_sub": "of all-time\ncontributions",
+      "recent_repo_title": "Recently Updated Repo",
+      "languages_title": "Programming Languages — Last 3 Months",
+      "activity_title": "Activity — Last 12 Weeks",
+      "active_weeks_prefix": "Active",
+      "active_weeks_suffix": "of 12 weeks",
+      "less": "Less",
+      "more": "More",
+      "recent_activities_title": "Recent Activities",
+      "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+      "activity_actions": {
+        "pushed_commits": "Committed changes",
+        "merged_pr": "Merged pull request",
+        "opened_pr": "Opened pull request",
+        "created_repo": "Created repository",
+        "created_branch": "Created branch",
+        "opened_issue": "Opened issue",
+        "published_release": "Published release",
+        "starred_repo": "Starred repository",
+        "forked_repo": "Forked repository"
+      },
+      "time_units": {
+        "just_now": "just now",
+        "minute": "minute ago",
+        "minutes": "minutes ago",
+        "hour": "hour ago",
+        "hours": "hours ago",
+        "yesterday": "yesterday",
+        "day": "day ago",
+        "days": "days ago",
+        "month": "month ago",
+        "months": "months ago",
+        "year": "year ago",
+        "years": "years ago"
+      }
+    }
+  }
+}

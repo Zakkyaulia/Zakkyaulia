@@ -1,0 +1,939 @@
+{
+  "processed_at": "2026-11-01T21:00:45.843263+07:00",
+  "locale": "id",
+  "labels": {
+    "last_active_title": "Terakhir aktif",
+    "last_active_sub": "aktivitas publik terbaru",
+    "month_contributions_title": "Kontribusi bulan ini",
+    "month_contributions_sub": "total sejak awal bulan",
+    "year_contributions_title": "Kontribusi tahun ini",
+    "year_contributions_sub": "dari seluruh\nkontribusi",
+    "recent_repo_title": "Repo terakhir diperbarui",
+    "languages_title": "Bahasa yang dipakai, 3 bulan terakhir",
+    "activity_title": "Aktivitas 12 minggu",
+    "active_weeks_prefix": "Aktif",
+    "active_weeks_suffix": "dari 12 minggu",
+    "less": "Sedikit",
+    "more": "Banyak",
+    "recent_activities_title": "Aktivitas terbaru",
+    "months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "Mei",
+      "Jun",
+      "Jul",
+      "Agu",
+      "Sep",
+      "Okt",
+      "Nov",
+      "Des"
+    ],
+    "activity_actions": {
+      "pushed_commits": "Mengirim perubahan kode",
+      "merged_pr": "Menggabungkan pull request",
+      "opened_pr": "Membuka pull request",
+      "created_repo": "Membuat repositori baru",
+      "created_branch": "Membuat branch baru",
+      "opened_issue": "Membuka issue baru",
+      "published_release": "Menerbitkan rilis baru",
+      "starred_repo": "Memberikan bintang repositori",
+      "forked_repo": "Melakukan fork repositori"
+    },
+    "time_units": {
+      "just_now": "baru saja",
+      "minute": "menit lalu",
+      "minutes": "menit lalu",
+      "hour": "jam lalu",
+      "hours": "jam lalu",
+      "yesterday": "kemarin",
+      "day": "hari lalu",
+      "days": "hari lalu",
+      "month": "bulan lalu",
+      "months": "bulan lalu",
+      "year": "tahun lalu",
+      "years": "tahun lalu"
+    }
+  },
+  "profile": {
+    "username": "Zakkyaulia",
+    "display_name": "Zakky Aulia Aldrin",
+    "subtitle": "Mahasiswa Sistem Informasi \u00b7 Universitas Andalas",
+    "collaboration_status": "Terbuka untuk kolaborasi",
+    "collaboration_available": true,
+    "avatar_base64": "data:image/png;base64,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",
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/zakky-aulia-aldrin",
+      "email": "zakkyaulialdrin@gmail.com",
+      "instagram": "https://instagram.com/jakieeey_",
+      "github": "https://github.com/Zakkyaulia"
+    }
+  },
+  "card1_last_active": {
+    "value": "2 hari lalu",
+    "subtitle": "aktivitas publik terbaru",
+    "repo": "web_prof"
+  },
+  "card2_month_contributions": {
+    "value": "0",
+    "subtitle": "total sejak awal bulan"
+  },
+  "card3_year_contributions": {
+    "percentage": 49,
+    "total_year": 86,
+    "total_lifetime": 177,
+    "subtitle": "dari seluruh\nkontribusi"
+  },
+  "card4_recent_repo": {
+    "name": "web_prof",
+    "language": "TypeScript",
+    "language_color": "#3178c6",
+    "relative_time": "2 hari lalu"
+  },
+  "languages": [
+    {
+      "name": "Dart",
+      "count": 7941,
+      "color": "#00b4ab",
+      "percentage": 52
+    },
+    {
+      "name": "TypeScript",
+      "count": 3604,
+      "color": "#3178c6",
+      "percentage": 24
+    },
+    {
+      "name": "CSS",
+      "count": 1417,
+      "color": "#563d7c",
+      "percentage": 9
+    },
+    {
+      "name": "C++",
+      "count": 650,
+      "color": "#f34b7d",
+      "percentage": 4
+    },
+    {
+      "name": "Lainnya",
+      "count": 1711,
+      "color": "#8b949e",
+      "percentage": 11
+    }
+  ],
+  "heatmap": {
+    "weeks": [
+      [
+        {
+          "date": "2026-08-10",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 10,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-11",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 11,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-12",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 12,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-13",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 13,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-14",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 14,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-15",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 15,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-16",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 16,
+          "month": 8,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-08-17",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 17,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-18",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 18,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-19",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 19,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-20",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 20,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-21",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 21,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-22",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 22,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-23",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 23,
+          "month": 8,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-08-24",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 24,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-25",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 25,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-26",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 26,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-27",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 27,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-28",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 28,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-29",
+          "count": 2,
+          "level": 2,
+          "weekday": 5,
+          "day": 29,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-08-30",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 30,
+          "month": 8,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-08-31",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 31,
+          "month": 8,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-01",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 1,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-02",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 2,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-03",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 3,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-04",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 4,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-05",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 5,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-06",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 6,
+          "month": 9,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-09-07",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 7,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-08",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 8,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-09",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 9,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-10",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 10,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-11",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 11,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-12",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 12,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-13",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 13,
+          "month": 9,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-09-14",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 14,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-15",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 15,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-16",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 16,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-17",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 17,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-18",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 18,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-19",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 19,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-20",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 20,
+          "month": 9,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-09-21",
+          "count": 2,
+          "level": 2,
+          "weekday": 0,
+          "day": 21,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-22",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 22,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-23",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 23,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-24",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 24,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-25",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 25,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-26",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 26,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-27",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 27,
+          "month": 9,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-09-28",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 28,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-29",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 29,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-09-30",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 30,
+          "month": 9,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-01",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 1,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-02",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 2,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-03",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 3,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-04",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 4,
+          "month": 10,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-10-05",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 5,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-06",
+          "count": 2,
+          "level": 2,
+          "weekday": 1,
+          "day": 6,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-07",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 7,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-08",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 8,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-09",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 9,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-10",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 10,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-11",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 11,
+          "month": 10,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-10-12",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 12,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-13",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 13,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-14",
+          "count": 1,
+          "level": 1,
+          "weekday": 2,
+          "day": 14,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-15",
+          "count": 1,
+          "level": 1,
+          "weekday": 3,
+          "day": 15,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-16",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 16,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-17",
+          "count": 1,
+          "level": 1,
+          "weekday": 5,
+          "day": 17,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-18",
+          "count": 2,
+          "level": 2,
+          "weekday": 6,
+          "day": 18,
+          "month": 10,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-10-19",
+          "count": 1,
+          "level": 1,
+          "weekday": 0,
+          "day": 19,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-20",
+          "count": 1,
+          "level": 1,
+          "weekday": 1,
+          "day": 20,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-21",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 21,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-22",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 22,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-23",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 23,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-24",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 24,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-25",
+          "count": 2,
+          "level": 2,
+          "weekday": 6,
+          "day": 25,
+          "month": 10,
+          "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-10-26",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 26,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-27",
+          "count": 1,
+          "level": 1,
+          "weekday": 1,
+          "day": 27,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-28",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 28,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-29",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 29,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-30",
+          "count": 2,
+          "level": 2,
+          "weekday": 4,
+          "day": 30,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-10-31",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 31,
+          "month": 10,
+          "is_future": false
+        },
+        {
+          "date": "2026-11-01",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 1,
+          "month": 11,
+          "is_future": false
+        }
+      ]
+    ],
+    "month_columns": {
+      "0": "Agu",
+      "3": "Sep",
+      "7": "Okt",
+      "11": "Nov"
+    },
+    "active_weeks": 6,
+    "total_weeks": 12,
+    "active_weeks_text": "Aktif 6 dari 12 minggu"
+  },
+  "recent_activities": [
+    {
+      "action": "Mengirim perubahan kode",
+      "repo": "web_prof",
+      "icon": "commit",
+      "relative_time": "2 hari lalu"
+    },
+    {
+      "action": "Menggabungkan pull request",
+      "repo": "pemobKilas",
+      "icon": "pull_request",
+      "relative_time": "5 hari lalu"
+    },
+    {
+      "action": "Membuat repositori baru",
+      "repo": "biTBdsi",
+      "icon": "repo",
+      "relative_time": "2 bulan lalu"
+    }
+  ]
+}

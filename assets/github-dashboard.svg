@@ -1,0 +1,229 @@
+<svg width="940" height="824" viewBox="0 0 940 824" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .font-main { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .bg-canvas { fill: #0d1117; }
+    .card-bg { fill: #161b22; stroke: #30363d; stroke-width: 1px; }
+    .text-title { fill: #f0f6fc; font-weight: 700; }
+    .text-subtitle { fill: #8b949e; font-weight: 400; }
+    .text-label { fill: #8b949e; font-size: 13px; font-weight: 400; }
+    .text-stat { fill: #f0f6fc; font-weight: 700; }
+    .badge-pill { fill: #161b22; stroke: #30363d; stroke-width: 1px; }
+    .badge-text { fill: #c9d1d9; font-size: 12px; font-weight: 500; }
+    .collab-pill { fill: #13231b; stroke: #238636; stroke-width: 1px; }
+    .collab-text { fill: #3fb950; font-size: 12px; font-weight: 600; }
+    .divider { stroke: #21262d; stroke-width: 1px; }
+    .legend-item { font-size: 13px; fill: #c9d1d9; font-weight: 500; }
+    .legend-pct { font-size: 13px; fill: #8b949e; font-weight: 600; }
+    @keyframes pulse {
+      0% { opacity: 1; }
+      50% { opacity: 0.4; }
+      100% { opacity: 1; }
+    }
+    .pulse-dot { animation: pulse 2.5s infinite ease-in-out; }
+  </style>
+
+  <defs>
+    <clipPath id="avatar-clip"><circle cx="52" cy="56" r="26"/></clipPath>
+    <clipPath id="lang-bar-clip"><rect x="48" y="304" width="390" height="16" rx="8"/></clipPath>
+  </defs>
+  <rect width="940" height="824" rx="16" class="bg-canvas" stroke="#30363d" stroke-width="1"/>
+  <image href="data:image/png;base64,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" x="26" y="30" width="52" height="52" clip-path="url(#avatar-clip)"/>
+  <text x="92" y="50" font-size="20" class="font-main text-title">Zakky Aulia Aldrin</text>
+  <text x="92" y="70" font-size="13" class="font-main text-subtitle">Mahasiswa Sistem Informasi · Universitas Andalas</text>
+  <rect x="646" y="40" width="234" height="32" rx="16" class="collab-pill"/>
+  <circle cx="664" cy="56" r="4.5" fill="#3fb950" class="pulse-dot"/>
+  <text x="676" y="61" class="font-main collab-text">Terbuka untuk kolaborasi</text>
+  <circle cx="898" cy="56" r="2" fill="#8b949e"/>
+  <circle cx="905" cy="56" r="2" fill="#8b949e"/>
+  <circle cx="912" cy="56" r="2" fill="#8b949e"/>
+  <!-- Card 1: Last Active -->
+  <rect x="24" y="104" width="212" height="124" rx="12" class="card-bg"/>
+  <text x="42" y="134" class="font-main text-label">Terakhir aktif</text>
+  <text x="42" y="172" font-size="24" class="font-main text-stat">2 hari lalu</text>
+  <text x="42" y="202" font-size="12" class="font-main text-subtitle">aktivitas publik terbaru</text>
+  <!-- Card 2: Contributions This Month -->
+  <rect x="250" y="104" width="212" height="124" rx="12" class="card-bg"/>
+  <text x="268" y="134" class="font-main text-label">Kontribusi bulan ini</text>
+  <text x="268" y="172" font-size="28" class="font-main text-stat">0</text>
+  <text x="268" y="202" font-size="12" class="font-main text-subtitle">total sejak awal bulan</text>
+  <!-- Card 3: Contributions This Year -->
+  <rect x="476" y="104" width="212" height="124" rx="12" class="card-bg"/>
+  <text x="494" y="134" class="font-main text-label">Kontribusi tahun ini</text>
+  <circle cx="522" cy="174" r="24" stroke="#21262d" stroke-width="5" fill="none"/>
+  <circle cx="522" cy="174" r="24" stroke="#388bfd" stroke-width="5" stroke-linecap="round" fill="none" stroke-dasharray="150.8" stroke-dashoffset="76.91" transform="rotate(-90 522 174)"/>
+  <text x="522" y="179" text-anchor="middle" font-size="13" font-weight="700" class="font-main text-stat">49%</text>
+  <text x="562" y="170" font-size="12" class="font-main text-subtitle">dari seluruh</text>
+  <text x="562" y="186" font-size="12" class="font-main text-subtitle">kontribusi</text>
+  <!-- Card 4: Recently Updated Repository -->
+  <rect x="702" y="104" width="212" height="124" rx="12" class="card-bg"/>
+  <text x="720" y="134" class="font-main text-label">Repo terakhir diperbarui</text>
+  <text x="720" y="170" font-size="18" class="font-main text-stat">web_prof</text>
+  <circle cx="724" cy="198" r="4.5" fill="#3178c6"/>
+  <text x="734" y="202" font-size="12" class="font-main text-subtitle">TypeScript · 2 hari lalu</text>
+  <!-- SECTION C: Programming Languages Stacked Bar -->
+  <rect x="24" y="244" width="438" height="352" rx="12" class="card-bg"/>
+  <text x="48" y="280" font-size="15" font-weight="600" class="font-main text-title">Bahasa yang dipakai, 3 bulan terakhir</text>
+  <g clip-path="url(#lang-bar-clip)">
+    <rect x="48" y="304" width="390" height="16" fill="#21262d"/>
+    <rect x="48.00" y="304" width="202.80" height="16" fill="#00b4ab"/>
+    <rect x="250.80" y="304" width="93.60" height="16" fill="#3178c6"/>
+    <rect x="344.40" y="304" width="35.10" height="16" fill="#563d7c"/>
+    <rect x="379.50" y="304" width="15.60" height="16" fill="#f34b7d"/>
+    <rect x="395.10" y="304" width="42.90" height="16" fill="#8b949e"/>
+  </g>
+  <rect x="48" y="304" width="390" height="16" rx="7" fill="none" stroke="#30363d" stroke-width="1"/>
+  <circle cx="56" cy="344" r="5" fill="#00b4ab"/>
+  <text x="72" y="348" class="font-main legend-item">Dart</text>
+  <text x="438" y="348" text-anchor="end" class="font-main legend-pct">52%</text>
+  <line x1="48" y1="364" x2="438" y2="364" class="divider"/>
+  <circle cx="56" cy="388" r="5" fill="#3178c6"/>
+  <text x="72" y="392" class="font-main legend-item">TypeScript</text>
+  <text x="438" y="392" text-anchor="end" class="font-main legend-pct">24%</text>
+  <line x1="48" y1="408" x2="438" y2="408" class="divider"/>
+  <circle cx="56" cy="432" r="5" fill="#563d7c"/>
+  <text x="72" y="436" class="font-main legend-item">CSS</text>
+  <text x="438" y="436" text-anchor="end" class="font-main legend-pct">9%</text>
+  <line x1="48" y1="452" x2="438" y2="452" class="divider"/>
+  <circle cx="56" cy="476" r="5" fill="#f34b7d"/>
+  <text x="72" y="480" class="font-main legend-item">C++</text>
+  <text x="438" y="480" text-anchor="end" class="font-main legend-pct">4%</text>
+  <line x1="48" y1="496" x2="438" y2="496" class="divider"/>
+  <circle cx="56" cy="520" r="5" fill="#8b949e"/>
+  <text x="72" y="524" class="font-main legend-item">Lainnya</text>
+  <text x="438" y="524" text-anchor="end" class="font-main legend-pct">11%</text>
+  <!-- SECTION D: 12-Week Contribution Heatmap -->
+  <rect x="478" y="244" width="438" height="352" rx="12" class="card-bg"/>
+  <text x="502" y="280" font-size="15" font-weight="600" class="font-main text-title">Aktivitas 12 minggu</text>
+  <text x="520" y="316" font-size="12" class="font-main text-subtitle">Agu</text>
+  <text x="610" y="316" font-size="12" class="font-main text-subtitle">Sep</text>
+  <text x="730" y="316" font-size="12" class="font-main text-subtitle">Okt</text>
+  <text x="850" y="316" font-size="12" class="font-main text-subtitle">Nov</text>
+  <rect x="520" y="328" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="520" y="358" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="520" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="520" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="520" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="520" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="520" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="550" y="328" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="550" y="358" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="550" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="550" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="550" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="550" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="550" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="580" y="328" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="580" y="358" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="580" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="580" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="580" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="580" y="478" width="23" height="23" rx="4" fill="#006d32"/>
+  <rect x="580" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="610" y="328" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="610" y="358" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="610" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="610" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="610" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="610" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="610" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="640" y="328" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="640" y="358" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="640" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="640" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="640" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="640" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="640" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="670" y="328" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="670" y="358" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="670" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="670" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="670" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="670" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="670" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="700" y="328" width="23" height="23" rx="4" fill="#006d32"/>
+  <rect x="700" y="358" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="700" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="700" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="700" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="700" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="700" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="730" y="328" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="730" y="358" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="730" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="730" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="730" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="730" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="730" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="760" y="328" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="760" y="358" width="23" height="23" rx="4" fill="#006d32"/>
+  <rect x="760" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="760" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="760" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="760" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="760" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="790" y="328" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="790" y="358" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="790" y="388" width="23" height="23" rx="4" fill="#0e4429"/>
+  <rect x="790" y="418" width="23" height="23" rx="4" fill="#0e4429"/>
+  <rect x="790" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="790" y="478" width="23" height="23" rx="4" fill="#0e4429"/>
+  <rect x="790" y="508" width="23" height="23" rx="4" fill="#006d32"/>
+  <rect x="820" y="328" width="23" height="23" rx="4" fill="#0e4429"/>
+  <rect x="820" y="358" width="23" height="23" rx="4" fill="#0e4429"/>
+  <rect x="820" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="820" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="820" y="448" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="820" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="820" y="508" width="23" height="23" rx="4" fill="#006d32"/>
+  <rect x="850" y="328" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="850" y="358" width="23" height="23" rx="4" fill="#0e4429"/>
+  <rect x="850" y="388" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="850" y="418" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="850" y="448" width="23" height="23" rx="4" fill="#006d32"/>
+  <rect x="850" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="850" y="508" width="23" height="23" rx="4" fill="#21262d"/>
+  <text x="520" y="566" font-size="12" class="font-main text-subtitle">Aktif 6 dari 12 minggu</text>
+  <text x="695" y="566" font-size="12" class="font-main text-subtitle">Sedikit</text>
+  <rect x="750" y="556" width="11" height="11" rx="2" fill="#21262d"/>
+  <rect x="765" y="556" width="11" height="11" rx="2" fill="#0e4429"/>
+  <rect x="780" y="556" width="11" height="11" rx="2" fill="#006d32"/>
+  <rect x="795" y="556" width="11" height="11" rx="2" fill="#26a641"/>
+  <rect x="810" y="556" width="11" height="11" rx="2" fill="#39d353"/>
+  <text x="829" y="566" font-size="12" class="font-main text-subtitle">Banyak</text>
+  <!-- SECTION E: Recent Activities -->
+  <rect x="24" y="612" width="892" height="138" rx="12" class="card-bg"/>
+  <text x="44" y="638" font-size="14" font-weight="600" class="font-main text-title">Aktivitas terbaru</text>
+  <g transform="translate(44, 654) scale(0.9)"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" fill="#8b949e"/></g>
+  <text x="68" y="666" font-size="13" class="font-main text-title">Mengirim perubahan kode <tspan font-weight="400" fill="#8b949e">· web_prof</tspan></text>
+  <text x="896" y="666" text-anchor="end" font-size="12" class="font-main text-subtitle">2 hari lalu</text>
+  <line x1="44" y1="676" x2="896" y2="676" class="divider"/>
+  <g transform="translate(44, 684) scale(0.9)"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.128a2.251 2.251 0 11-1.5 0V6.5a2.5 2.5 0 00-2.5-2.5h-1V2.5z" fill="#8b949e"/></g>
+  <text x="68" y="696" font-size="13" class="font-main text-title">Menggabungkan pull request <tspan font-weight="400" fill="#8b949e">· pemobKilas</tspan></text>
+  <text x="896" y="696" text-anchor="end" font-size="12" class="font-main text-subtitle">5 hari lalu</text>
+  <line x1="44" y1="706" x2="896" y2="706" class="divider"/>
+  <g transform="translate(44, 714) scale(0.9)"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1h-8a1 1 0 00-1 1v6.708A2.486 2.486 0 014.5 9h8V1.5zM5 12.25a.25.25 0 01.25-.25H12v1.5H5.25a.25.25 0 01-.25-.25z" fill="#8b949e"/></g>
+  <text x="68" y="726" font-size="13" class="font-main text-title">Membuat repositori baru <tspan font-weight="400" fill="#8b949e">· biTBdsi</tspan></text>
+  <text x="896" y="726" text-anchor="end" font-size="12" class="font-main text-subtitle">2 bulan lalu</text>
+  <!-- SECTION F: Social Badges -->
+  <g transform="translate(24, 766)">
+    <rect width="96" height="32" rx="8" class="badge-pill"/>
+    <g transform="translate(10, 8) scale(0.9)"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" fill="#8b949e"/></g>
+    <text x="32" y="20" class="font-main badge-text">LinkedIn</text>
+  </g>
+  <g transform="translate(132, 766)">
+    <rect width="78" height="32" rx="8" class="badge-pill"/>
+    <g transform="translate(10, 8) scale(0.9)"><path d="M1.75 2A1.75 1.75 0 000 3.75v.736l9 5.25 9-5.25v-.736A1.75 1.75 0 0016.25 2H1.75zM18 6.014l-9 5.25-9-5.25V14.25c0 .966.784 1.75 1.75 1.75h14.5A1.75 1.75 0 0018 14.25V6.014z" fill="#8b949e"/></g>
+    <text x="32" y="20" class="font-main badge-text">Email</text>
+  </g>
+  <g transform="translate(222, 766)">
+    <rect width="104" height="32" rx="8" class="badge-pill"/>
+    <g transform="translate(10, 8) scale(0.9)"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" fill="#8b949e"/></g>
+    <text x="32" y="20" class="font-main badge-text">Instagram</text>
+  </g>
+  <g transform="translate(338, 766)">
+    <rect width="118" height="32" rx="8" class="badge-pill"/>
+    <g transform="translate(10, 8) scale(0.9)"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" fill="#8b949e"/></g>
+    <text x="32" y="20" class="font-main badge-text">Zakkyaulia</text>
+  </g>
+</svg>
