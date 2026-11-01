@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-01T21:04:13.497802+07:00",
+  "processed_at": "2026-11-01T21:05:29.470793+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,7 +71,7 @@
     }
   },
   "card1_last_active": {
-    "value": "2 menit lalu",
+    "value": "4 menit lalu",
     "subtitle": "aktivitas publik terbaru",
     "repo": "Zakkyaulia"
   },
@@ -89,7 +89,7 @@
     "name": "Zakkyaulia",
     "language": "Python",
     "language_color": "#3572a5",
-    "relative_time": "baru saja"
+    "relative_time": "1 menit lalu"
   },
   "languages": [
     {
