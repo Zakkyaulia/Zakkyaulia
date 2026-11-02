@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-02T18:50:43.204327+07:00",
+  "processed_at": "2026-11-03T04:05:05.331360+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,7 +71,7 @@
     }
   },
   "card1_last_active": {
-    "value": "kemarin",
+    "value": "2 hari lalu",
     "subtitle": "aktivitas publik terbaru",
     "repo": "Zakkyaulia"
   },
@@ -89,7 +89,7 @@
     "name": "Zakkyaulia",
     "language": "Python",
     "language_color": "#3572a5",
-    "relative_time": "8 jam lalu"
+    "relative_time": "kemarin"
   },
   "languages": [
     {
@@ -857,7 +857,7 @@
           "weekday": 1,
           "day": 3,
           "month": 11,
-          "is_future": true
+          "is_future": false
         },
         {
           "date": "2026-11-04",
@@ -921,19 +921,19 @@
       "action": "Mengirim perubahan kode",
       "repo": "web_prof",
       "icon": "commit",
-      "relative_time": "3 hari lalu"
+      "relative_time": "4 hari lalu"
     },
     {
       "action": "Mengirim perubahan kode",
       "repo": "pemobKilas",
       "icon": "commit",
-      "relative_time": "6 hari lalu"
+      "relative_time": "7 hari lalu"
     },
     {
       "action": "Mengirim perubahan kode",
       "repo": "web_prof",
       "icon": "commit",
-      "relative_time": "8 hari lalu"
+      "relative_time": "9 hari lalu"
     }
   ]
 }
