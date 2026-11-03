@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T03:11:01.862367+00:00",
+  "fetched_at": "2026-11-03T11:29:35.012591+00:00",
   "username": "Zakkyaulia",
   "user_profile": {
     "login": "Zakkyaulia",
@@ -45,8 +45,8 @@
     {
       "name": "Zakkyaulia",
       "language": "Python",
-      "pushed_at": "2026-11-02T21:05:06Z",
-      "updated_at": "2026-11-02T21:05:10Z",
+      "pushed_at": "2026-11-03T03:11:02Z",
+      "updated_at": "2026-11-03T03:11:06Z",
       "stargazers_count": 0,
       "fork": false
     },
@@ -124,6 +124,59 @@
     }
   ],
   "events": [
+    {
+      "id": "26003040701",
+      "type": "PushEvent",
+      "actor": {
+        "id": 164708214,
+        "login": "Zakkyaulia",
+        "display_login": "Zakkyaulia",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Zakkyaulia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
+      },
+      "repo": {
+        "id": 1441879497,
+        "name": "Zakkyaulia/Zakkyaulia",
+        "url": "https://api.github.com/repos/Zakkyaulia/Zakkyaulia"
+      },
+      "payload": {
+        "repository_id": 1441879497,
+        "push_id": 48578436749,
+        "ref": "refs/heads/main",
+        "head": "731c4e331883145b7718c8d577c3a244bf1f3bb3",
+        "before": "adef343f0978f791e5509d3995dc01eb73dafad3"
+      },
+      "public": true,
+      "created_at": "2026-11-01T14:16:19Z"
+    },
+    {
+      "id": "26002214812",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 164708214,
+        "login": "Zakkyaulia",
+        "display_login": "Zakkyaulia",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Zakkyaulia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
+      },
+      "repo": {
+        "id": 1441879497,
+        "name": "Zakkyaulia/Zakkyaulia",
+        "url": "https://api.github.com/repos/Zakkyaulia/Zakkyaulia"
+      },
+      "payload": {
+        "ref": "main",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/main",
+        "master_branch": "main",
+        "description": null,
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-11-01T14:03:49Z"
+    },
     {
       "id": "25908680037",
       "type": "PushEvent",
