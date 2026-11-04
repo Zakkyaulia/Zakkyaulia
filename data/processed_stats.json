@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-04T18:47:12.130518+07:00",
+  "processed_at": "2026-11-05T02:05:20.509190+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,7 +71,7 @@
     }
   },
   "card1_last_active": {
-    "value": "3 hari lalu",
+    "value": "4 hari lalu",
     "subtitle": "aktivitas publik terbaru",
     "repo": "Zakkyaulia"
   },
@@ -89,7 +89,7 @@
     "name": "Zakkyaulia",
     "language": "Python",
     "language_color": "#3572a5",
-    "relative_time": "7 jam lalu"
+    "relative_time": "kemarin"
   },
   "languages": [
     {
@@ -875,7 +875,7 @@
           "weekday": 3,
           "day": 5,
           "month": 11,
-          "is_future": true
+          "is_future": false
         },
         {
           "date": "2026-11-06",
@@ -921,19 +921,19 @@
       "action": "Mengirim perubahan kode",
       "repo": "Zakkyaulia",
       "icon": "commit",
-      "relative_time": "3 hari lalu"
+      "relative_time": "4 hari lalu"
     },
     {
       "action": "Membuat branch baru",
       "repo": "Zakkyaulia",
       "icon": "branch",
-      "relative_time": "3 hari lalu"
+      "relative_time": "4 hari lalu"
     },
     {
       "action": "Mengirim perubahan kode",
       "repo": "web_prof",
       "icon": "commit",
-      "relative_time": "5 hari lalu"
+      "relative_time": "6 hari lalu"
     }
   ]
 }
