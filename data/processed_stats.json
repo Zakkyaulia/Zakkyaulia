@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-05T14:34:24.414259+07:00",
+  "processed_at": "2026-11-05T22:56:20.162132+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,44 +71,44 @@
     }
   },
   "card1_last_active": {
-    "value": "4 hari lalu",
+    "value": "1 jam lalu",
     "subtitle": "aktivitas publik terbaru",
-    "repo": "Zakkyaulia"
+    "repo": "pemobKilas"
   },
   "card2_month_contributions": {
-    "value": "4",
+    "value": "7",
     "subtitle": "total sejak awal bulan"
   },
   "card3_year_contributions": {
     "percentage": 79,
-    "total_year": 90,
-    "total_lifetime": 114,
+    "total_year": 93,
+    "total_lifetime": 117,
     "subtitle": "dari seluruh\nkontribusi"
   },
   "card4_recent_repo": {
-    "name": "Zakkyaulia",
-    "language": "Python",
-    "language_color": "#3572a5",
-    "relative_time": "6 jam lalu"
+    "name": "pemobKilas",
+    "language": "Dart",
+    "language_color": "#00b4ab",
+    "relative_time": "1 jam lalu"
   },
   "languages": [
     {
       "name": "Dart",
-      "count": 7941,
+      "count": 9186,
       "color": "#00b4ab",
-      "percentage": 48
+      "percentage": 51
     },
     {
       "name": "TypeScript",
       "count": 3604,
       "color": "#3178c6",
-      "percentage": 22
+      "percentage": 20
     },
     {
       "name": "Python",
       "count": 1652,
       "color": "#3572a5",
-      "percentage": 10
+      "percentage": 9
     },
     {
       "name": "CSS",
@@ -870,8 +870,8 @@
         },
         {
           "date": "2026-11-05",
-          "count": 0,
-          "level": 0,
+          "count": 3,
+          "level": 2,
           "weekday": 3,
           "day": 5,
           "month": 11,
@@ -912,9 +912,9 @@
       "6": "Okt",
       "10": "Nov"
     },
-    "active_weeks": 6,
+    "active_weeks": 7,
     "total_weeks": 12,
-    "active_weeks_text": "Aktif 6 dari 12 minggu"
+    "active_weeks_text": "Aktif 7 dari 12 minggu"
   },
   "recent_activities": [
     {
