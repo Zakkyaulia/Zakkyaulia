@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T15:56:20.154154+00:00",
+  "fetched_at": "2026-11-05T21:44:01.165913+00:00",
   "username": "Zakkyaulia",
   "user_profile": {
     "login": "Zakkyaulia",
@@ -18,43 +18,43 @@
     "author": "Zakky Aulia Aldrin"
   },
   "language_line_counts": {
+    "Python": 1652,
     "Dart": 9186,
     "Swift": 86,
     "C++": 650,
     "Kotlin": 104,
     "C": 222,
     "HTML": 530,
-    "Python": 1652,
     "TypeScript": 3604,
     "CSS": 1417,
     "JavaScript": 442
   },
   "language_commit_counts": {
+    "Python": 7,
     "Dart": 111,
     "Swift": 8,
     "C++": 9,
     "Kotlin": 4,
     "C": 8,
     "HTML": 2,
-    "Python": 7,
     "TypeScript": 70,
     "CSS": 2,
     "JavaScript": 2
   },
   "recent_repos": [
     {
-      "name": "pemobKilas",
-      "language": "Dart",
-      "pushed_at": "2026-11-05T14:24:37Z",
-      "updated_at": "2026-11-05T14:24:42Z",
+      "name": "Zakkyaulia",
+      "language": "Python",
+      "pushed_at": "2026-11-05T15:56:21Z",
+      "updated_at": "2026-11-05T15:56:27Z",
       "stargazers_count": 0,
       "fork": false
     },
     {
-      "name": "Zakkyaulia",
-      "language": "Python",
-      "pushed_at": "2026-11-05T07:34:25Z",
-      "updated_at": "2026-11-05T07:34:29Z",
+      "name": "pemobKilas",
+      "language": "Dart",
+      "pushed_at": "2026-11-05T14:24:37Z",
+      "updated_at": "2026-11-05T14:24:42Z",
       "stargazers_count": 0,
       "fork": false
     },
@@ -124,6 +124,32 @@
     }
   ],
   "events": [
+    {
+      "id": "26249386533",
+      "type": "PushEvent",
+      "actor": {
+        "id": 164708214,
+        "login": "Zakkyaulia",
+        "display_login": "Zakkyaulia",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Zakkyaulia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
+      },
+      "repo": {
+        "id": 1379639881,
+        "name": "Zakkyaulia/pemobKilas",
+        "url": "https://api.github.com/repos/Zakkyaulia/pemobKilas"
+      },
+      "payload": {
+        "repository_id": 1379639881,
+        "push_id": 49119851060,
+        "ref": "refs/heads/main",
+        "head": "cc340ab865269668b5f1f6f45c60908ab08dcbb2",
+        "before": "20707102072a8009133cba96762925a102d13825"
+      },
+      "public": true,
+      "created_at": "2026-11-05T14:24:38Z"
+    },
     {
       "id": "26003040701",
       "type": "PushEvent",
@@ -541,32 +567,6 @@
       },
       "public": true,
       "created_at": "2026-10-06T08:29:36Z"
-    },
-    {
-      "id": "23147221170",
-      "type": "PushEvent",
-      "actor": {
-        "id": 164708214,
-        "login": "Zakkyaulia",
-        "display_login": "Zakkyaulia",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Zakkyaulia",
-        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
-      },
-      "repo": {
-        "id": 1379639881,
-        "name": "Zakkyaulia/pemobKilas",
-        "url": "https://api.github.com/repos/Zakkyaulia/pemobKilas"
-      },
-      "payload": {
-        "repository_id": 1379639881,
-        "push_id": 45598313886,
-        "ref": "refs/heads/main",
-        "head": "72eedee12043b0bc6c50a14c09cb7066f9a21c26",
-        "before": "93d5ac5c8b3407dc0eb3c123c08ca739279d16dd"
-      },
-      "public": true,
-      "created_at": "2026-10-06T09:10:26Z"
     }
   ],
   "contributions_data": {
