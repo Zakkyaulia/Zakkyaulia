@@ -45,7 +45,7 @@
   <!-- Card 2: Contributions This Month -->
   <rect x="250" y="104" width="212" height="124" rx="12" class="card-bg"/>
   <text x="268" y="134" class="font-main text-label">Kontribusi bulan ini</text>
-  <text x="268" y="172" font-size="28" class="font-main text-stat">8</text>
+  <text x="268" y="172" font-size="28" class="font-main text-stat">9</text>
   <text x="268" y="202" font-size="12" class="font-main text-subtitle">total sejak awal bulan</text>
   <!-- Card 3: Contributions This Year -->
   <rect x="476" y="104" width="212" height="124" rx="12" class="card-bg"/>
@@ -181,7 +181,7 @@
   <rect x="850" y="388" width="23" height="23" rx="4" fill="#21262d"/>
   <rect x="850" y="418" width="23" height="23" rx="4" fill="#006d32"/>
   <rect x="850" y="448" width="23" height="23" rx="4" fill="#0e4429"/>
-  <rect x="850" y="478" width="23" height="23" rx="4" fill="#21262d"/>
+  <rect x="850" y="478" width="23" height="23" rx="4" fill="#0e4429"/>
   <rect x="850" y="508" width="23" height="23" rx="4" fill="#161b22"/>
   <text x="520" y="566" font-size="12" class="font-main text-subtitle">Aktif 7 dari 12 minggu</text>
   <text x="695" y="566" font-size="12" class="font-main text-subtitle">Sedikit</text>
