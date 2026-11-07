@@ -60,7 +60,7 @@
   <text x="720" y="134" class="font-main text-label">Repo terakhir diperbarui</text>
   <text x="720" y="170" font-size="18" class="font-main text-stat">Zakkyaulia</text>
   <circle cx="724" cy="198" r="4.5" fill="#3572a5"/>
-  <text x="734" y="202" font-size="12" class="font-main text-subtitle">Python · kemarin</text>
+  <text x="734" y="202" font-size="12" class="font-main text-subtitle">Python · 4 jam lalu</text>
   <!-- SECTION C: Programming Languages Stacked Bar -->
   <rect x="24" y="244" width="438" height="352" rx="12" class="card-bg"/>
   <text x="48" y="280" font-size="15" font-weight="600" class="font-main text-title">Bahasa yang dipakai, 3 bulan terakhir</text>
