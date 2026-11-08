@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-08T23:51:39.362044+07:00",
+  "processed_at": "2026-11-09T03:53:51.586819+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,7 +71,7 @@
     }
   },
   "card1_last_active": {
-    "value": "2 hari lalu",
+    "value": "3 hari lalu",
     "subtitle": "aktivitas publik terbaru",
     "repo": "pemobKilas"
   },
@@ -89,7 +89,7 @@
     "name": "Zakkyaulia",
     "language": "Python",
     "language_color": "#3572a5",
-    "relative_time": "5 jam lalu"
+    "relative_time": "kemarin"
   },
   "languages": [
     {
@@ -125,71 +125,6 @@
   ],
   "heatmap": {
     "weeks": [
-      [
-        {
-          "date": "2026-08-17",
-          "count": 0,
-          "level": 0,
-          "weekday": 0,
-          "day": 17,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-18",
-          "count": 0,
-          "level": 0,
-          "weekday": 1,
-          "day": 18,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-19",
-          "count": 0,
-          "level": 0,
-          "weekday": 2,
-          "day": 19,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-20",
-          "count": 0,
-          "level": 0,
-          "weekday": 3,
-          "day": 20,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-21",
-          "count": 0,
-          "level": 0,
-          "weekday": 4,
-          "day": 21,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-22",
-          "count": 0,
-          "level": 0,
-          "weekday": 5,
-          "day": 22,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-23",
-          "count": 0,
-          "level": 0,
-          "weekday": 6,
-          "day": 23,
-          "month": 8,
-          "is_future": false
-        }
-      ],
       [
         {
           "date": "2026-08-24",
@@ -904,13 +839,78 @@
           "month": 11,
           "is_future": false
         }
+      ],
+      [
+        {
+          "date": "2026-11-09",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 9,
+          "month": 11,
+          "is_future": false
+        },
+        {
+          "date": "2026-11-10",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 10,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-11",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 11,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-12",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 12,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-13",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 13,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-14",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 14,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-15",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 15,
+          "month": 11,
+          "is_future": true
+        }
       ]
     ],
     "month_columns": {
       "0": "Agu",
-      "2": "Sep",
-      "6": "Okt",
-      "10": "Nov"
+      "1": "Sep",
+      "5": "Okt",
+      "9": "Nov"
     },
     "active_weeks": 7,
     "total_weeks": 12,
@@ -921,19 +921,19 @@
       "action": "Mengirim perubahan kode",
       "repo": "Kirana",
       "icon": "commit",
-      "relative_time": "19 jam lalu"
+      "relative_time": "kemarin"
     },
     {
       "action": "Mengirim perubahan kode",
       "repo": "Kirana",
       "icon": "commit",
-      "relative_time": "kemarin"
+      "relative_time": "2 hari lalu"
     },
     {
       "action": "Mengirim perubahan kode",
       "repo": "pemobKilas",
       "icon": "commit",
-      "relative_time": "2 hari lalu"
+      "relative_time": "3 hari lalu"
     }
   ]
 }
