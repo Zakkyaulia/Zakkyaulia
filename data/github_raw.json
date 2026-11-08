@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T10:54:13.674078+00:00",
+  "fetched_at": "2026-11-08T16:51:39.353525+00:00",
   "username": "Zakkyaulia",
   "user_profile": {
     "login": "Zakkyaulia",
@@ -45,8 +45,8 @@
     {
       "name": "Zakkyaulia",
       "language": "Python",
-      "pushed_at": "2026-11-08T03:25:04Z",
-      "updated_at": "2026-11-08T03:25:08Z",
+      "pushed_at": "2026-11-08T10:54:14Z",
+      "updated_at": "2026-11-08T10:54:18Z",
       "stargazers_count": 0,
       "fork": false
     },
@@ -124,6 +124,58 @@
     }
   ],
   "events": [
+    {
+      "id": "26543322679",
+      "type": "PushEvent",
+      "actor": {
+        "id": 164708214,
+        "login": "Zakkyaulia",
+        "display_login": "Zakkyaulia",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Zakkyaulia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
+      },
+      "repo": {
+        "id": 1448972308,
+        "name": "Davyd19/Kirana",
+        "url": "https://api.github.com/repos/Davyd19/Kirana"
+      },
+      "payload": {
+        "repository_id": 1448972308,
+        "push_id": 49396769223,
+        "ref": "refs/heads/main",
+        "head": "49d5b8139ff49ef943394679f4c01efbdc0a5368",
+        "before": "7e8424b1288d44fa0e2ecd8dde97577114533e79"
+      },
+      "public": true,
+      "created_at": "2026-11-07T20:52:47Z"
+    },
+    {
+      "id": "26540745789",
+      "type": "PushEvent",
+      "actor": {
+        "id": 164708214,
+        "login": "Zakkyaulia",
+        "display_login": "Zakkyaulia",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Zakkyaulia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
+      },
+      "repo": {
+        "id": 1448972308,
+        "name": "Davyd19/Kirana",
+        "url": "https://api.github.com/repos/Davyd19/Kirana"
+      },
+      "payload": {
+        "repository_id": 1448972308,
+        "push_id": 49399710372,
+        "ref": "refs/heads/main",
+        "head": "c572c59275d116808aed4d9f9a11fde22faa544c",
+        "before": "49d5b8139ff49ef943394679f4c01efbdc0a5368"
+      },
+      "public": true,
+      "created_at": "2026-11-07T21:34:58Z"
+    },
     {
       "id": "26498228811",
       "type": "PushEvent",
@@ -627,59 +679,6 @@
       },
       "public": true,
       "created_at": "2026-10-14T12:18:38Z"
-    },
-    {
-      "id": "24099474026",
-      "type": "CreateEvent",
-      "actor": {
-        "id": 164708214,
-        "login": "Zakkyaulia",
-        "display_login": "Zakkyaulia",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Zakkyaulia",
-        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
-      },
-      "repo": {
-        "id": 1379639881,
-        "name": "Zakkyaulia/pemobKilas",
-        "url": "https://api.github.com/repos/Zakkyaulia/pemobKilas"
-      },
-      "payload": {
-        "ref": "zakky_uts",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/zakky_uts",
-        "master_branch": "main",
-        "description": null,
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-10-14T10:15:08Z"
-    },
-    {
-      "id": "24055483880",
-      "type": "PushEvent",
-      "actor": {
-        "id": 164708214,
-        "login": "Zakkyaulia",
-        "display_login": "Zakkyaulia",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Zakkyaulia",
-        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
-      },
-      "repo": {
-        "id": 1379639881,
-        "name": "Zakkyaulia/pemobKilas",
-        "url": "https://api.github.com/repos/Zakkyaulia/pemobKilas"
-      },
-      "payload": {
-        "repository_id": 1379639881,
-        "push_id": 46539972079,
-        "ref": "refs/heads/zakky",
-        "head": "55c4423696b4721e2b59d67bef21de8b726d5e27",
-        "before": "1ce2f29867c67d559ad33e2da4539b0a9a35fd92"
-      },
-      "public": true,
-      "created_at": "2026-10-15T01:35:57Z"
     }
   ],
   "contributions_data": {
