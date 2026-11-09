@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-09T03:53:51.586819+07:00",
+  "processed_at": "2026-11-09T07:19:44.805806+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -89,7 +89,7 @@
     "name": "Zakkyaulia",
     "language": "Python",
     "language_color": "#3572a5",
-    "relative_time": "kemarin"
+    "relative_time": "3 jam lalu"
   },
   "languages": [
     {
