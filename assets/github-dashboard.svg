@@ -40,7 +40,7 @@
   <!-- Card 1: Last Active -->
   <rect x="24" y="104" width="212" height="124" rx="12" class="card-bg"/>
   <text x="42" y="134" class="font-main text-label">Terakhir aktif</text>
-  <text x="42" y="172" font-size="24" class="font-main text-stat">4 hari lalu</text>
+  <text x="42" y="172" font-size="24" class="font-main text-stat">5 hari lalu</text>
   <text x="42" y="202" font-size="12" class="font-main text-subtitle">aktivitas publik terbaru</text>
   <!-- Card 2: Contributions This Month -->
   <rect x="250" y="104" width="212" height="124" rx="12" class="card-bg"/>
@@ -60,7 +60,7 @@
   <text x="720" y="134" class="font-main text-label">Repo terakhir diperbarui</text>
   <text x="720" y="170" font-size="18" class="font-main text-stat">Zakkyaulia</text>
   <circle cx="724" cy="198" r="4.5" fill="#3572a5"/>
-  <text x="734" y="202" font-size="12" class="font-main text-subtitle">Python · 7 jam lalu</text>
+  <text x="734" y="202" font-size="12" class="font-main text-subtitle">Python · kemarin</text>
   <!-- SECTION C: Programming Languages Stacked Bar -->
   <rect x="24" y="244" width="438" height="352" rx="12" class="card-bg"/>
   <text x="48" y="280" font-size="15" font-weight="600" class="font-main text-title">Bahasa yang dipakai, 3 bulan terakhir</text>
@@ -178,7 +178,7 @@
   <rect x="820" y="508" width="23" height="23" rx="4" fill="#006d32"/>
   <rect x="850" y="328" width="23" height="23" rx="4" fill="#21262d"/>
   <rect x="850" y="358" width="23" height="23" rx="4" fill="#21262d"/>
-  <rect x="850" y="388" width="23" height="23" rx="4" fill="#161b22"/>
+  <rect x="850" y="388" width="23" height="23" rx="4" fill="#21262d"/>
   <rect x="850" y="418" width="23" height="23" rx="4" fill="#161b22"/>
   <rect x="850" y="448" width="23" height="23" rx="4" fill="#161b22"/>
   <rect x="850" y="478" width="23" height="23" rx="4" fill="#161b22"/>
@@ -196,15 +196,15 @@
   <text x="44" y="638" font-size="14" font-weight="600" class="font-main text-title">Aktivitas terbaru</text>
   <g transform="translate(44, 654) scale(0.9)"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" fill="#8b949e"/></g>
   <text x="68" y="666" font-size="13" class="font-main text-title">Mengirim perubahan kode <tspan font-weight="400" fill="#8b949e">· Kirana</tspan></text>
-  <text x="896" y="666" text-anchor="end" font-size="12" class="font-main text-subtitle">2 hari lalu</text>
+  <text x="896" y="666" text-anchor="end" font-size="12" class="font-main text-subtitle">3 hari lalu</text>
   <line x1="44" y1="676" x2="896" y2="676" class="divider"/>
   <g transform="translate(44, 684) scale(0.9)"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" fill="#8b949e"/></g>
   <text x="68" y="696" font-size="13" class="font-main text-title">Mengirim perubahan kode <tspan font-weight="400" fill="#8b949e">· Kirana</tspan></text>
-  <text x="896" y="696" text-anchor="end" font-size="12" class="font-main text-subtitle">3 hari lalu</text>
+  <text x="896" y="696" text-anchor="end" font-size="12" class="font-main text-subtitle">4 hari lalu</text>
   <line x1="44" y1="706" x2="896" y2="706" class="divider"/>
   <g transform="translate(44, 714) scale(0.9)"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" fill="#8b949e"/></g>
   <text x="68" y="726" font-size="13" class="font-main text-title">Mengirim perubahan kode <tspan font-weight="400" fill="#8b949e">· pemobKilas</tspan></text>
-  <text x="896" y="726" text-anchor="end" font-size="12" class="font-main text-subtitle">4 hari lalu</text>
+  <text x="896" y="726" text-anchor="end" font-size="12" class="font-main text-subtitle">5 hari lalu</text>
   <!-- SECTION F: Social Badges -->
   <a href="https://www.linkedin.com/in/zakkyaulia" target="_blank">
     <g transform="translate(24, 766)">
