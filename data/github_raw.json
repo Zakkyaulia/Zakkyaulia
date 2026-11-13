@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T22:58:50.147565+00:00",
+  "fetched_at": "2026-11-13T03:10:24.707252+00:00",
   "username": "Zakkyaulia",
   "user_profile": {
     "login": "Zakkyaulia",
@@ -45,7 +45,7 @@
     {
       "name": "Zakkyaulia",
       "language": "Python",
-      "pushed_at": "2026-11-12T17:21:59Z",
+      "pushed_at": "2026-11-12T22:58:51Z",
       "updated_at": "2026-11-12T09:58:20Z",
       "stargazers_count": 0,
       "fork": false
@@ -124,6 +124,32 @@
     }
   ],
   "events": [
+    {
+      "id": "26992126053",
+      "type": "PushEvent",
+      "actor": {
+        "id": 164708214,
+        "login": "Zakkyaulia",
+        "display_login": "Zakkyaulia",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Zakkyaulia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
+      },
+      "repo": {
+        "id": 1447634697,
+        "name": "Ghezy123/BE-KILAS",
+        "url": "https://api.github.com/repos/Ghezy123/BE-KILAS"
+      },
+      "payload": {
+        "repository_id": 1447634697,
+        "push_id": 49864464703,
+        "ref": "refs/heads/main",
+        "head": "4d2878a4a43d8ef9ba14c2fa93f9b8f8c2583e3d",
+        "before": "9f34b503e09c9da94d3d330865499c455958f46d"
+      },
+      "public": true,
+      "created_at": "2026-11-11T13:41:06Z"
+    },
     {
       "id": "26543322679",
       "type": "PushEvent",
@@ -652,33 +678,6 @@
       },
       "public": true,
       "created_at": "2026-10-17T08:15:03Z"
-    },
-    {
-      "id": "24141149734",
-      "type": "CreateEvent",
-      "actor": {
-        "id": 164708214,
-        "login": "Zakkyaulia",
-        "display_login": "Zakkyaulia",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Zakkyaulia",
-        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
-      },
-      "repo": {
-        "id": 1379639881,
-        "name": "Zakkyaulia/pemobKilas",
-        "url": "https://api.github.com/repos/Zakkyaulia/pemobKilas"
-      },
-      "payload": {
-        "ref": "zakky",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/zakky",
-        "master_branch": "main",
-        "description": null,
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-10-14T12:18:38Z"
     }
   ],
   "contributions_data": {
@@ -2738,6 +2737,11 @@
             "contributionCount": 0,
             "date": "2026-11-12",
             "weekday": 4
+          },
+          {
+            "contributionCount": 0,
+            "date": "2026-11-13",
+            "weekday": 5
           }
         ]
       }
