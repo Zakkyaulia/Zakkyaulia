@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T11:43:08.577771+00:00",
+  "fetched_at": "2026-11-13T18:57:25.812797+00:00",
   "username": "Zakkyaulia",
   "user_profile": {
     "login": "Zakkyaulia",
@@ -12,49 +12,49 @@
   },
   "latest_qualifying_commit": {
     "repo": "pemobKilas",
-    "sha": "4401bd6",
-    "date": "2026-11-06T02:03:40Z",
-    "message": "eum ya gitulah ada penyesuaian ulang lagi",
+    "sha": "f6ee36a",
+    "date": "2026-11-13T14:02:33Z",
+    "message": "konfigurasi ke hp penting ni",
     "author": "Zakky Aulia Aldrin"
   },
   "language_line_counts": {
-    "Python": 1652,
-    "Dart": 10056,
+    "Dart": 10080,
     "Swift": 86,
     "C++": 650,
     "Kotlin": 104,
     "C": 222,
     "HTML": 530,
+    "Python": 1652,
     "TypeScript": 3604,
     "CSS": 1417,
     "JavaScript": 442
   },
   "language_commit_counts": {
-    "Python": 7,
-    "Dart": 134,
+    "Dart": 135,
     "Swift": 8,
     "C++": 9,
     "Kotlin": 4,
     "C": 8,
     "HTML": 2,
+    "Python": 7,
     "TypeScript": 70,
     "CSS": 2,
     "JavaScript": 2
   },
   "recent_repos": [
     {
-      "name": "Zakkyaulia",
-      "language": "Python",
-      "pushed_at": "2026-11-13T03:10:25Z",
-      "updated_at": "2026-11-12T09:58:20Z",
+      "name": "pemobKilas",
+      "language": "Dart",
+      "pushed_at": "2026-11-13T14:02:39Z",
+      "updated_at": "2026-11-06T02:03:52Z",
       "stargazers_count": 0,
       "fork": false
     },
     {
-      "name": "pemobKilas",
-      "language": "Dart",
-      "pushed_at": "2026-11-06T02:03:48Z",
-      "updated_at": "2026-11-06T02:03:52Z",
+      "name": "Zakkyaulia",
+      "language": "Python",
+      "pushed_at": "2026-11-13T11:43:09Z",
+      "updated_at": "2026-11-12T09:58:20Z",
       "stargazers_count": 0,
       "fork": false
     },
@@ -681,7 +681,7 @@
     }
   ],
   "contributions_data": {
-    "totalContributions": 122,
+    "totalContributions": 123,
     "weeks": [
       {
         "contributionDays": [
@@ -2739,7 +2739,7 @@
             "weekday": 4
           },
           {
-            "contributionCount": 0,
+            "contributionCount": 1,
             "date": "2026-11-13",
             "weekday": 5
           }

@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-13T18:43:08.581723+07:00",
+  "processed_at": "2026-11-14T01:57:25.815896+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,30 +71,30 @@
     }
   },
   "card1_last_active": {
-    "value": "7 hari lalu",
+    "value": "kemarin",
     "subtitle": "aktivitas publik terbaru",
     "repo": "pemobKilas"
   },
   "card2_month_contributions": {
-    "value": "12",
+    "value": "13",
     "subtitle": "total sejak awal bulan"
   },
   "card3_year_contributions": {
     "percentage": 80,
-    "total_year": 98,
-    "total_lifetime": 122,
+    "total_year": 99,
+    "total_lifetime": 123,
     "subtitle": "dari seluruh\nkontribusi"
   },
   "card4_recent_repo": {
-    "name": "Zakkyaulia",
-    "language": "Python",
-    "language_color": "#3572a5",
-    "relative_time": "8 jam lalu"
+    "name": "pemobKilas",
+    "language": "Dart",
+    "language_color": "#00b4ab",
+    "relative_time": "kemarin"
   },
   "languages": [
     {
       "name": "Dart",
-      "count": 10056,
+      "count": 10080,
       "color": "#00b4ab",
       "percentage": 54
     },
@@ -879,8 +879,8 @@
         },
         {
           "date": "2026-11-13",
-          "count": 0,
-          "level": 0,
+          "count": 1,
+          "level": 1,
           "weekday": 4,
           "day": 13,
           "month": 11,
@@ -893,7 +893,7 @@
           "weekday": 5,
           "day": 14,
           "month": 11,
-          "is_future": true
+          "is_future": false
         },
         {
           "date": "2026-11-15",
@@ -921,19 +921,19 @@
       "action": "Mengirim perubahan kode",
       "repo": "BE-KILAS",
       "icon": "commit",
-      "relative_time": "2 hari lalu"
-    },
-    {
-      "action": "Mengirim perubahan kode",
-      "repo": "Kirana",
-      "icon": "commit",
-      "relative_time": "5 hari lalu"
+      "relative_time": "3 hari lalu"
     },
     {
       "action": "Mengirim perubahan kode",
       "repo": "Kirana",
       "icon": "commit",
       "relative_time": "6 hari lalu"
+    },
+    {
+      "action": "Mengirim perubahan kode",
+      "repo": "Kirana",
+      "icon": "commit",
+      "relative_time": "7 hari lalu"
     }
   ]
 }
