@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-14T01:57:25.815896+07:00",
+  "processed_at": "2026-11-14T07:08:36.639126+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -86,10 +86,10 @@
     "subtitle": "dari seluruh\nkontribusi"
   },
   "card4_recent_repo": {
-    "name": "pemobKilas",
-    "language": "Dart",
-    "language_color": "#00b4ab",
-    "relative_time": "kemarin"
+    "name": "Zakkyaulia",
+    "language": "Python",
+    "language_color": "#3572a5",
+    "relative_time": "5 jam lalu"
   },
   "languages": [
     {
