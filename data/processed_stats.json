@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-16T01:14:00.137212+07:00",
+  "processed_at": "2026-11-16T06:16:11.753325+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -86,10 +86,10 @@
     "subtitle": "dari seluruh\nkontribusi"
   },
   "card4_recent_repo": {
-    "name": "pemobKilas",
-    "language": "Dart",
-    "language_color": "#00b4ab",
-    "relative_time": "kemarin"
+    "name": "Zakkyaulia",
+    "language": "Python",
+    "language_color": "#3572a5",
+    "relative_time": "5 jam lalu"
   },
   "languages": [
     {
@@ -921,6 +921,12 @@
       "action": "Mengirim perubahan kode",
       "repo": "pemobKilas",
       "icon": "commit",
+      "relative_time": "3 hari lalu"
+    },
+    {
+      "action": "Mengirim perubahan kode",
+      "repo": "pemobKilas",
+      "icon": "commit",
       "relative_time": "kemarin"
     },
     {
@@ -928,12 +934,6 @@
       "repo": "web_prof",
       "icon": "commit",
       "relative_time": "kemarin"
-    },
-    {
-      "action": "Mengirim perubahan kode",
-      "repo": "BE-KILAS",
-      "icon": "commit",
-      "relative_time": "5 hari lalu"
     }
   ]
 }
