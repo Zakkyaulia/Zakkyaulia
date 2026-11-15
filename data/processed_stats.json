@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-15T10:50:43.530978+07:00",
+  "processed_at": "2026-11-15T18:39:34.163685+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -86,10 +86,10 @@
     "subtitle": "dari seluruh\nkontribusi"
   },
   "card4_recent_repo": {
-    "name": "Zakkyaulia",
-    "language": "Python",
-    "language_color": "#3572a5",
-    "relative_time": "4 jam lalu"
+    "name": "web_prof",
+    "language": "TypeScript",
+    "language_color": "#3178c6",
+    "relative_time": "16 menit lalu"
   },
   "languages": [
     {

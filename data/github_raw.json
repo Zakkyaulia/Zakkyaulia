@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T03:50:43.520458+00:00",
+  "fetched_at": "2026-11-15T11:39:34.156409+00:00",
   "username": "Zakkyaulia",
   "user_profile": {
     "login": "Zakkyaulia",
@@ -18,34 +18,42 @@
     "author": "Zakky Aulia Aldrin"
   },
   "language_line_counts": {
+    "TypeScript": 3604,
+    "CSS": 1417,
+    "JavaScript": 442,
+    "HTML": 530,
     "Python": 1652,
     "Dart": 10080,
     "Swift": 86,
     "C++": 650,
     "Kotlin": 104,
-    "C": 222,
-    "HTML": 530,
-    "TypeScript": 3604,
-    "CSS": 1417,
-    "JavaScript": 442
+    "C": 222
   },
   "language_commit_counts": {
+    "TypeScript": 70,
+    "CSS": 2,
+    "JavaScript": 2,
+    "HTML": 2,
     "Python": 7,
     "Dart": 135,
     "Swift": 8,
     "C++": 9,
     "Kotlin": 4,
-    "C": 8,
-    "HTML": 2,
-    "TypeScript": 70,
-    "CSS": 2,
-    "JavaScript": 2
+    "C": 8
   },
   "recent_repos": [
     {
+      "name": "web_prof",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-15T11:23:22Z",
+      "updated_at": "2026-10-30T15:04:47Z",
+      "stargazers_count": 0,
+      "fork": false
+    },
+    {
       "name": "Zakkyaulia",
       "language": "Python",
-      "pushed_at": "2026-11-14T23:30:31Z",
+      "pushed_at": "2026-11-15T03:50:44Z",
       "updated_at": "2026-11-12T09:58:20Z",
       "stargazers_count": 0,
       "fork": false
@@ -55,14 +63,6 @@
       "language": "Dart",
       "pushed_at": "2026-11-13T14:02:39Z",
       "updated_at": "2026-11-06T02:03:52Z",
-      "stargazers_count": 0,
-      "fork": false
-    },
-    {
-      "name": "web_prof",
-      "language": "TypeScript",
-      "pushed_at": "2026-10-30T15:04:43Z",
-      "updated_at": "2026-10-30T15:04:47Z",
       "stargazers_count": 0,
       "fork": false
     },
