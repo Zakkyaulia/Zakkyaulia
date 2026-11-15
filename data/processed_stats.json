@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-15T18:39:34.163685+07:00",
+  "processed_at": "2026-11-16T01:14:00.137212+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,44 +71,44 @@
     }
   },
   "card1_last_active": {
-    "value": "2 hari lalu",
+    "value": "kemarin",
     "subtitle": "aktivitas publik terbaru",
     "repo": "pemobKilas"
   },
   "card2_month_contributions": {
-    "value": "13",
+    "value": "15",
     "subtitle": "total sejak awal bulan"
   },
   "card3_year_contributions": {
-    "percentage": 80,
-    "total_year": 99,
-    "total_lifetime": 123,
+    "percentage": 81,
+    "total_year": 101,
+    "total_lifetime": 125,
     "subtitle": "dari seluruh\nkontribusi"
   },
   "card4_recent_repo": {
-    "name": "web_prof",
-    "language": "TypeScript",
-    "language_color": "#3178c6",
-    "relative_time": "16 menit lalu"
+    "name": "pemobKilas",
+    "language": "Dart",
+    "language_color": "#00b4ab",
+    "relative_time": "kemarin"
   },
   "languages": [
     {
       "name": "Dart",
-      "count": 10080,
+      "count": 11407,
       "color": "#00b4ab",
-      "percentage": 54
+      "percentage": 57
     },
     {
       "name": "TypeScript",
       "count": 3604,
       "color": "#3178c6",
-      "percentage": 19
+      "percentage": 18
     },
     {
       "name": "Python",
       "count": 1652,
       "color": "#3572a5",
-      "percentage": 9
+      "percentage": 8
     },
     {
       "name": "CSS",
@@ -118,78 +118,13 @@
     },
     {
       "name": "Lainnya",
-      "count": 2034,
+      "count": 2036,
       "color": "#8b949e",
-      "percentage": 11
+      "percentage": 10
     }
   ],
   "heatmap": {
     "weeks": [
-      [
-        {
-          "date": "2026-08-24",
-          "count": 0,
-          "level": 0,
-          "weekday": 0,
-          "day": 24,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-25",
-          "count": 0,
-          "level": 0,
-          "weekday": 1,
-          "day": 25,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-26",
-          "count": 0,
-          "level": 0,
-          "weekday": 2,
-          "day": 26,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-27",
-          "count": 0,
-          "level": 0,
-          "weekday": 3,
-          "day": 27,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-28",
-          "count": 0,
-          "level": 0,
-          "weekday": 4,
-          "day": 28,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-29",
-          "count": 2,
-          "level": 2,
-          "weekday": 5,
-          "day": 29,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-08-30",
-          "count": 0,
-          "level": 0,
-          "weekday": 6,
-          "day": 30,
-          "month": 8,
-          "is_future": false
-        }
-      ],
       [
         {
           "date": "2026-08-31",
@@ -897,43 +832,108 @@
         },
         {
           "date": "2026-11-15",
-          "count": 0,
-          "level": 0,
+          "count": 2,
+          "level": 2,
           "weekday": 6,
           "day": 15,
           "month": 11,
           "is_future": false
+        }
+      ],
+      [
+        {
+          "date": "2026-11-16",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 16,
+          "month": 11,
+          "is_future": false
+        },
+        {
+          "date": "2026-11-17",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 17,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-18",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 18,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-19",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 19,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-20",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 20,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-21",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 21,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-22",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 22,
+          "month": 11,
+          "is_future": true
         }
       ]
     ],
     "month_columns": {
       "0": "Agu",
       "1": "Sep",
-      "5": "Okt",
-      "9": "Nov"
+      "4": "Okt",
+      "8": "Nov"
     },
-    "active_weeks": 8,
+    "active_weeks": 7,
     "total_weeks": 12,
-    "active_weeks_text": "Aktif 8 dari 12 minggu"
+    "active_weeks_text": "Aktif 7 dari 12 minggu"
   },
   "recent_activities": [
     {
       "action": "Mengirim perubahan kode",
+      "repo": "pemobKilas",
+      "icon": "commit",
+      "relative_time": "kemarin"
+    },
+    {
+      "action": "Mengirim perubahan kode",
+      "repo": "web_prof",
+      "icon": "commit",
+      "relative_time": "kemarin"
+    },
+    {
+      "action": "Mengirim perubahan kode",
       "repo": "BE-KILAS",
       "icon": "commit",
-      "relative_time": "4 hari lalu"
-    },
-    {
-      "action": "Mengirim perubahan kode",
-      "repo": "Kirana",
-      "icon": "commit",
-      "relative_time": "7 hari lalu"
-    },
-    {
-      "action": "Mengirim perubahan kode",
-      "repo": "Kirana",
-      "icon": "commit",
-      "relative_time": "8 hari lalu"
+      "relative_time": "5 hari lalu"
     }
   ]
 }

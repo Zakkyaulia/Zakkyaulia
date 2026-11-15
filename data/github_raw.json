@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T11:39:34.156409+00:00",
+  "fetched_at": "2026-11-15T18:14:00.127760+00:00",
   "username": "Zakkyaulia",
   "user_profile": {
     "login": "Zakkyaulia",
@@ -12,57 +12,57 @@
   },
   "latest_qualifying_commit": {
     "repo": "pemobKilas",
-    "sha": "f6ee36a",
-    "date": "2026-11-13T14:02:33Z",
-    "message": "konfigurasi ke hp penting ni",
+    "sha": "0188541",
+    "date": "2026-11-15T13:47:24Z",
+    "message": "penyesuaian FE dikit dan hapus dummy untuk fitur cari pengguna & qr profil",
     "author": "Zakky Aulia Aldrin"
   },
   "language_line_counts": {
-    "TypeScript": 3604,
-    "CSS": 1417,
-    "JavaScript": 442,
-    "HTML": 530,
-    "Python": 1652,
-    "Dart": 10080,
-    "Swift": 86,
+    "Dart": 11407,
+    "Swift": 88,
     "C++": 650,
     "Kotlin": 104,
-    "C": 222
+    "C": 222,
+    "HTML": 530,
+    "Python": 1652,
+    "TypeScript": 3604,
+    "CSS": 1417,
+    "JavaScript": 442
   },
   "language_commit_counts": {
-    "TypeScript": 70,
-    "CSS": 2,
-    "JavaScript": 2,
-    "HTML": 2,
-    "Python": 7,
-    "Dart": 135,
-    "Swift": 8,
+    "Dart": 148,
+    "Swift": 9,
     "C++": 9,
     "Kotlin": 4,
-    "C": 8
+    "C": 8,
+    "HTML": 2,
+    "Python": 7,
+    "TypeScript": 70,
+    "CSS": 2,
+    "JavaScript": 2
   },
   "recent_repos": [
     {
-      "name": "web_prof",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-15T11:23:22Z",
-      "updated_at": "2026-10-30T15:04:47Z",
+      "name": "pemobKilas",
+      "language": "Dart",
+      "pushed_at": "2026-11-15T13:47:30Z",
+      "updated_at": "2026-11-06T02:03:52Z",
       "stargazers_count": 0,
       "fork": false
     },
     {
       "name": "Zakkyaulia",
       "language": "Python",
-      "pushed_at": "2026-11-15T03:50:44Z",
+      "pushed_at": "2026-11-15T11:39:35Z",
       "updated_at": "2026-11-12T09:58:20Z",
       "stargazers_count": 0,
       "fork": false
     },
     {
-      "name": "pemobKilas",
-      "language": "Dart",
-      "pushed_at": "2026-11-13T14:02:39Z",
-      "updated_at": "2026-11-06T02:03:52Z",
+      "name": "web_prof",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-15T11:23:22Z",
+      "updated_at": "2026-10-30T15:04:47Z",
       "stargazers_count": 0,
       "fork": false
     },
@@ -124,6 +124,58 @@
     }
   ],
   "events": [
+    {
+      "id": "27245339162",
+      "type": "PushEvent",
+      "actor": {
+        "id": 164708214,
+        "login": "Zakkyaulia",
+        "display_login": "Zakkyaulia",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Zakkyaulia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
+      },
+      "repo": {
+        "id": 1379639881,
+        "name": "Zakkyaulia/pemobKilas",
+        "url": "https://api.github.com/repos/Zakkyaulia/pemobKilas"
+      },
+      "payload": {
+        "repository_id": 1379639881,
+        "push_id": 50398322067,
+        "ref": "refs/heads/main",
+        "head": "0188541fc5732bc408c1da9d5f5220ae6a18fe5d",
+        "before": "f6ee36a54da825773b3d0f092ddb4863005d4df5"
+      },
+      "public": true,
+      "created_at": "2026-11-15T13:47:31Z"
+    },
+    {
+      "id": "27238162915",
+      "type": "PushEvent",
+      "actor": {
+        "id": 164708214,
+        "login": "Zakkyaulia",
+        "display_login": "Zakkyaulia",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Zakkyaulia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
+      },
+      "repo": {
+        "id": 1280481838,
+        "name": "Zakkyaulia/web_prof",
+        "url": "https://api.github.com/repos/Zakkyaulia/web_prof"
+      },
+      "payload": {
+        "repository_id": 1280481838,
+        "push_id": 50386337558,
+        "ref": "refs/heads/alternatif",
+        "head": "a8d884a61ecb6550702dfc84c33197a04f334cd7",
+        "before": "a0cd5e406c705b8f1c839a16444f0c4b565f9dc3"
+      },
+      "public": true,
+      "created_at": "2026-11-15T11:15:04Z"
+    },
     {
       "id": "26992126053",
       "type": "PushEvent",
@@ -626,62 +678,10 @@
       },
       "public": true,
       "created_at": "2026-10-18T00:03:08Z"
-    },
-    {
-      "id": "24529158517",
-      "type": "PushEvent",
-      "actor": {
-        "id": 164708214,
-        "login": "Zakkyaulia",
-        "display_login": "Zakkyaulia",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Zakkyaulia",
-        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
-      },
-      "repo": {
-        "id": 1379639881,
-        "name": "Zakkyaulia/pemobKilas",
-        "url": "https://api.github.com/repos/Zakkyaulia/pemobKilas"
-      },
-      "payload": {
-        "repository_id": 1379639881,
-        "push_id": 46963127161,
-        "ref": "refs/heads/main",
-        "head": "88444db20b6c70f90939e5c2ba7232c35622191d",
-        "before": "590afe53879250c03da3691867d11dc51826b7bc"
-      },
-      "public": true,
-      "created_at": "2026-10-19T04:15:15Z"
-    },
-    {
-      "id": "24389200481",
-      "type": "PushEvent",
-      "actor": {
-        "id": 164708214,
-        "login": "Zakkyaulia",
-        "display_login": "Zakkyaulia",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Zakkyaulia",
-        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
-      },
-      "repo": {
-        "id": 1379639881,
-        "name": "Zakkyaulia/pemobKilas",
-        "url": "https://api.github.com/repos/Zakkyaulia/pemobKilas"
-      },
-      "payload": {
-        "repository_id": 1379639881,
-        "push_id": 46801288369,
-        "ref": "refs/heads/main",
-        "head": "1dfcb977265693d1b184e7a4d06c42bfa5670132",
-        "before": "14b99a0f8e40079633fba21a1513729ffc0a4b15"
-      },
-      "public": true,
-      "created_at": "2026-10-17T08:15:03Z"
     }
   ],
   "contributions_data": {
-    "totalContributions": 123,
+    "totalContributions": 125,
     "weeks": [
       {
         "contributionDays": [
@@ -2714,7 +2714,7 @@
       {
         "contributionDays": [
           {
-            "contributionCount": 0,
+            "contributionCount": 2,
             "date": "2026-11-15",
             "weekday": 0
           }
