@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-16T19:16:35.903614+07:00",
+  "processed_at": "2026-11-17T05:39:30.883638+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,7 +71,7 @@
     }
   },
   "card1_last_active": {
-    "value": "kemarin",
+    "value": "2 hari lalu",
     "subtitle": "aktivitas publik terbaru",
     "repo": "pemobKilas"
   },
@@ -89,7 +89,7 @@
     "name": "Zakkyaulia",
     "language": "Python",
     "language_color": "#3572a5",
-    "relative_time": "8 jam lalu"
+    "relative_time": "kemarin"
   },
   "languages": [
     {
@@ -857,7 +857,7 @@
           "weekday": 1,
           "day": 17,
           "month": 11,
-          "is_future": true
+          "is_future": false
         },
         {
           "date": "2026-11-18",
@@ -918,22 +918,22 @@
   },
   "recent_activities": [
     {
-      "action": "Mengirim perubahan kode",
-      "repo": "pemobKilas",
-      "icon": "commit",
-      "relative_time": "3 hari lalu"
-    },
-    {
-      "action": "Mengirim perubahan kode",
-      "repo": "pemobKilas",
-      "icon": "commit",
-      "relative_time": "kemarin"
-    },
-    {
-      "action": "Mengirim perubahan kode",
+      "action": "Membuat branch baru",
       "repo": "web_prof",
+      "icon": "branch",
+      "relative_time": "2 hari lalu"
+    },
+    {
+      "action": "Mengirim perubahan kode",
+      "repo": "pemobKilas",
       "icon": "commit",
-      "relative_time": "kemarin"
+      "relative_time": "4 hari lalu"
+    },
+    {
+      "action": "Mengirim perubahan kode",
+      "repo": "pemobKilas",
+      "icon": "commit",
+      "relative_time": "2 hari lalu"
     }
   ]
 }
