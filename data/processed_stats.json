@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-19T17:55:31.251362+07:00",
+  "processed_at": "2026-11-20T02:17:02.817263+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,7 +71,7 @@
     }
   },
   "card1_last_active": {
-    "value": "4 hari lalu",
+    "value": "5 hari lalu",
     "subtitle": "aktivitas publik terbaru",
     "repo": "pemobKilas"
   },
@@ -86,10 +86,10 @@
     "subtitle": "dari seluruh\nkontribusi"
   },
   "card4_recent_repo": {
-    "name": "pemobKilas",
-    "language": "Dart",
-    "language_color": "#00b4ab",
-    "relative_time": "3 jam lalu"
+    "name": "Zakkyaulia",
+    "language": "Python",
+    "language_color": "#3572a5",
+    "relative_time": "kemarin"
   },
   "languages": [
     {
@@ -884,7 +884,7 @@
           "weekday": 4,
           "day": 20,
           "month": 11,
-          "is_future": true
+          "is_future": false
         },
         {
           "date": "2026-11-21",
@@ -921,19 +921,19 @@
       "action": "Membuat branch baru",
       "repo": "web_prof",
       "icon": "branch",
-      "relative_time": "4 hari lalu"
+      "relative_time": "5 hari lalu"
     },
     {
       "action": "Mengirim perubahan kode",
       "repo": "pemobKilas",
       "icon": "commit",
-      "relative_time": "6 hari lalu"
+      "relative_time": "7 hari lalu"
     },
     {
       "action": "Mengirim perubahan kode",
       "repo": "pemobKilas",
       "icon": "commit",
-      "relative_time": "4 hari lalu"
+      "relative_time": "5 hari lalu"
     }
   ]
 }
