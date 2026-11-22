@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T09:04:04.306831+00:00",
+  "fetched_at": "2026-11-22T17:29:47.525072+00:00",
   "username": "Zakkyaulia",
   "user_profile": {
     "login": "Zakkyaulia",
@@ -45,7 +45,7 @@
     {
       "name": "Zakkyaulia",
       "language": "Python",
-      "pushed_at": "2026-11-22T01:48:35Z",
+      "pushed_at": "2026-11-22T09:04:05Z",
       "updated_at": "2026-11-12T09:58:20Z",
       "stargazers_count": 0,
       "fork": false
@@ -124,6 +124,32 @@
     }
   ],
   "events": [
+    {
+      "id": "27951608294",
+      "type": "PushEvent",
+      "actor": {
+        "id": 164708214,
+        "login": "Zakkyaulia",
+        "display_login": "Zakkyaulia",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Zakkyaulia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
+      },
+      "repo": {
+        "id": 1379639881,
+        "name": "Zakkyaulia/pemobKilas",
+        "url": "https://api.github.com/repos/Zakkyaulia/pemobKilas"
+      },
+      "payload": {
+        "repository_id": 1379639881,
+        "push_id": 51139000036,
+        "ref": "refs/heads/main",
+        "head": "10cd713887930040d5c73695bbb9062c3f559759",
+        "before": "3229c56202cb649c877b27ef57c46e933997ce6a"
+      },
+      "public": true,
+      "created_at": "2026-11-20T11:54:34Z"
+    },
     {
       "id": "27817218217",
       "type": "PushEvent",
@@ -653,32 +679,6 @@
       },
       "public": true,
       "created_at": "2026-10-30T15:04:44Z"
-    },
-    {
-      "id": "25376648118",
-      "type": "PushEvent",
-      "actor": {
-        "id": 164708214,
-        "login": "Zakkyaulia",
-        "display_login": "Zakkyaulia",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Zakkyaulia",
-        "avatar_url": "https://avatars.githubusercontent.com/u/164708214?"
-      },
-      "repo": {
-        "id": 1379639881,
-        "name": "Zakkyaulia/pemobKilas",
-        "url": "https://api.github.com/repos/Zakkyaulia/pemobKilas"
-      },
-      "payload": {
-        "repository_id": 1379639881,
-        "push_id": 47967775418,
-        "ref": "refs/heads/main",
-        "head": "68060e2f2eb4da2f8ae1a314cf3e457445309725",
-        "before": "3bf6075d3eb402ddbc68836015b8044639e8260b"
-      },
-      "public": true,
-      "created_at": "2026-10-27T14:06:54Z"
     }
   ],
   "contributions_data": {

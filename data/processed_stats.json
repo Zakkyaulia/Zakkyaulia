@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-22T16:04:04.314513+07:00",
+  "processed_at": "2026-11-23T00:29:47.527781+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,7 +71,7 @@
     }
   },
   "card1_last_active": {
-    "value": "2 hari lalu",
+    "value": "3 hari lalu",
     "subtitle": "aktivitas publik terbaru",
     "repo": "pemobKilas"
   },
@@ -89,7 +89,7 @@
     "name": "Zakkyaulia",
     "language": "Python",
     "language_color": "#3572a5",
-    "relative_time": "7 jam lalu"
+    "relative_time": "kemarin"
   },
   "languages": [
     {
@@ -125,71 +125,6 @@
   ],
   "heatmap": {
     "weeks": [
-      [
-        {
-          "date": "2026-08-31",
-          "count": 0,
-          "level": 0,
-          "weekday": 0,
-          "day": 31,
-          "month": 8,
-          "is_future": false
-        },
-        {
-          "date": "2026-09-01",
-          "count": 0,
-          "level": 0,
-          "weekday": 1,
-          "day": 1,
-          "month": 9,
-          "is_future": false
-        },
-        {
-          "date": "2026-09-02",
-          "count": 0,
-          "level": 0,
-          "weekday": 2,
-          "day": 2,
-          "month": 9,
-          "is_future": false
-        },
-        {
-          "date": "2026-09-03",
-          "count": 0,
-          "level": 0,
-          "weekday": 3,
-          "day": 3,
-          "month": 9,
-          "is_future": false
-        },
-        {
-          "date": "2026-09-04",
-          "count": 0,
-          "level": 0,
-          "weekday": 4,
-          "day": 4,
-          "month": 9,
-          "is_future": false
-        },
-        {
-          "date": "2026-09-05",
-          "count": 0,
-          "level": 0,
-          "weekday": 5,
-          "day": 5,
-          "month": 9,
-          "is_future": false
-        },
-        {
-          "date": "2026-09-06",
-          "count": 0,
-          "level": 0,
-          "weekday": 6,
-          "day": 6,
-          "month": 9,
-          "is_future": false
-        }
-      ],
       [
         {
           "date": "2026-09-07",
@@ -904,13 +839,77 @@
           "month": 11,
           "is_future": false
         }
+      ],
+      [
+        {
+          "date": "2026-11-23",
+          "count": 0,
+          "level": 0,
+          "weekday": 0,
+          "day": 23,
+          "month": 11,
+          "is_future": false
+        },
+        {
+          "date": "2026-11-24",
+          "count": 0,
+          "level": 0,
+          "weekday": 1,
+          "day": 24,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-25",
+          "count": 0,
+          "level": 0,
+          "weekday": 2,
+          "day": 25,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-26",
+          "count": 0,
+          "level": 0,
+          "weekday": 3,
+          "day": 26,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-27",
+          "count": 0,
+          "level": 0,
+          "weekday": 4,
+          "day": 27,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-28",
+          "count": 0,
+          "level": 0,
+          "weekday": 5,
+          "day": 28,
+          "month": 11,
+          "is_future": true
+        },
+        {
+          "date": "2026-11-29",
+          "count": 0,
+          "level": 0,
+          "weekday": 6,
+          "day": 29,
+          "month": 11,
+          "is_future": true
+        }
       ]
     ],
     "month_columns": {
-      "0": "Agu",
-      "1": "Sep",
-      "4": "Okt",
-      "8": "Nov"
+      "0": "Sep",
+      "3": "Okt",
+      "7": "Nov"
     },
     "active_weeks": 8,
     "total_weeks": 12,
@@ -919,21 +918,21 @@
   "recent_activities": [
     {
       "action": "Mengirim perubahan kode",
-      "repo": "BE-KILAS",
+      "repo": "pemobKilas",
       "icon": "commit",
-      "relative_time": "2 hari lalu"
+      "relative_time": "3 hari lalu"
     },
     {
       "action": "Mengirim perubahan kode",
-      "repo": "pemobKilas",
+      "repo": "BE-KILAS",
       "icon": "commit",
-      "relative_time": "2 hari lalu"
+      "relative_time": "3 hari lalu"
     },
     {
       "action": "Membuat branch baru",
       "repo": "web_prof",
       "icon": "branch",
-      "relative_time": "7 hari lalu"
+      "relative_time": "8 hari lalu"
     }
   ]
 }
