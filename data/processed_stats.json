@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-24T18:49:30.507565+07:00",
+  "processed_at": "2026-11-25T04:43:31.317027+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -71,7 +71,7 @@
     }
   },
   "card1_last_active": {
-    "value": "4 hari lalu",
+    "value": "5 hari lalu",
     "subtitle": "aktivitas publik terbaru",
     "repo": "pemobKilas"
   },
@@ -89,7 +89,7 @@
     "name": "Zakkyaulia",
     "language": "Python",
     "language_color": "#3572a5",
-    "relative_time": "10 jam lalu"
+    "relative_time": "kemarin"
   },
   "languages": [
     {
@@ -866,7 +866,7 @@
           "weekday": 2,
           "day": 25,
           "month": 11,
-          "is_future": true
+          "is_future": false
         },
         {
           "date": "2026-11-26",
@@ -920,19 +920,19 @@
       "action": "Mengirim perubahan kode",
       "repo": "BE-KILAS",
       "icon": "commit",
-      "relative_time": "4 hari lalu"
+      "relative_time": "5 hari lalu"
     },
     {
       "action": "Mengirim perubahan kode",
       "repo": "pemobKilas",
       "icon": "commit",
-      "relative_time": "4 hari lalu"
+      "relative_time": "5 hari lalu"
     },
     {
       "action": "Membuat branch baru",
       "repo": "web_prof",
       "icon": "branch",
-      "relative_time": "9 hari lalu"
+      "relative_time": "10 hari lalu"
     }
   ]
 }
