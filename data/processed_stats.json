@@ -1,5 +1,5 @@
 {
-  "processed_at": "2026-11-27T07:53:11.533138+07:00",
+  "processed_at": "2026-11-27T16:18:00.493101+07:00",
   "locale": "id",
   "labels": {
     "last_active_title": "Terakhir aktif",
@@ -89,14 +89,14 @@
     "name": "Zakkyaulia",
     "language": "Python",
     "language_color": "#3572a5",
-    "relative_time": "kemarin"
+    "relative_time": "8 jam lalu"
   },
   "languages": [
     {
       "name": "Dart",
       "count": 12729,
       "color": "#00b4ab",
-      "percentage": 59
+      "percentage": 60
     },
     {
       "name": "TypeScript",
@@ -105,22 +105,22 @@
       "percentage": 17
     },
     {
-      "name": "Python",
-      "count": 1652,
-      "color": "#3572a5",
-      "percentage": 8
-    },
-    {
       "name": "CSS",
       "count": 1417,
       "color": "#563d7c",
       "percentage": 7
     },
     {
+      "name": "Python",
+      "count": 1325,
+      "color": "#3572a5",
+      "percentage": 6
+    },
+    {
       "name": "Lainnya",
       "count": 2036,
       "color": "#8b949e",
-      "percentage": 9
+      "percentage": 10
     }
   ],
   "heatmap": {

@@ -60,38 +60,38 @@
   <text x="720" y="134" class="font-main text-label">Repo terakhir diperbarui</text>
   <text x="720" y="170" font-size="18" class="font-main text-stat">Zakkyaulia</text>
   <circle cx="724" cy="198" r="4.5" fill="#3572a5"/>
-  <text x="734" y="202" font-size="12" class="font-main text-subtitle">Python · kemarin</text>
+  <text x="734" y="202" font-size="12" class="font-main text-subtitle">Python · 8 jam lalu</text>
   <!-- SECTION C: Programming Languages Stacked Bar -->
   <rect x="24" y="244" width="438" height="352" rx="12" class="card-bg"/>
   <text x="48" y="280" font-size="15" font-weight="600" class="font-main text-title">Bahasa yang dipakai, 3 bulan terakhir</text>
   <g clip-path="url(#lang-bar-clip)">
     <rect x="48" y="304" width="390" height="16" fill="#21262d"/>
-    <rect x="48.00" y="304" width="230.10" height="16" fill="#00b4ab"/>
-    <rect x="278.10" y="304" width="66.30" height="16" fill="#3178c6"/>
-    <rect x="344.40" y="304" width="31.20" height="16" fill="#3572a5"/>
-    <rect x="375.60" y="304" width="27.30" height="16" fill="#563d7c"/>
-    <rect x="402.90" y="304" width="35.10" height="16" fill="#8b949e"/>
+    <rect x="48.00" y="304" width="234.00" height="16" fill="#00b4ab"/>
+    <rect x="282.00" y="304" width="66.30" height="16" fill="#3178c6"/>
+    <rect x="348.30" y="304" width="27.30" height="16" fill="#563d7c"/>
+    <rect x="375.60" y="304" width="23.40" height="16" fill="#3572a5"/>
+    <rect x="399.00" y="304" width="39.00" height="16" fill="#8b949e"/>
   </g>
   <rect x="48" y="304" width="390" height="16" rx="7" fill="none" stroke="#30363d" stroke-width="1"/>
   <circle cx="56" cy="344" r="5" fill="#00b4ab"/>
   <text x="72" y="348" class="font-main legend-item">Dart</text>
-  <text x="438" y="348" text-anchor="end" class="font-main legend-pct">59%</text>
+  <text x="438" y="348" text-anchor="end" class="font-main legend-pct">60%</text>
   <line x1="48" y1="364" x2="438" y2="364" class="divider"/>
   <circle cx="56" cy="388" r="5" fill="#3178c6"/>
   <text x="72" y="392" class="font-main legend-item">TypeScript</text>
   <text x="438" y="392" text-anchor="end" class="font-main legend-pct">17%</text>
   <line x1="48" y1="408" x2="438" y2="408" class="divider"/>
-  <circle cx="56" cy="432" r="5" fill="#3572a5"/>
-  <text x="72" y="436" class="font-main legend-item">Python</text>
-  <text x="438" y="436" text-anchor="end" class="font-main legend-pct">8%</text>
+  <circle cx="56" cy="432" r="5" fill="#563d7c"/>
+  <text x="72" y="436" class="font-main legend-item">CSS</text>
+  <text x="438" y="436" text-anchor="end" class="font-main legend-pct">7%</text>
   <line x1="48" y1="452" x2="438" y2="452" class="divider"/>
-  <circle cx="56" cy="476" r="5" fill="#563d7c"/>
-  <text x="72" y="480" class="font-main legend-item">CSS</text>
-  <text x="438" y="480" text-anchor="end" class="font-main legend-pct">7%</text>
+  <circle cx="56" cy="476" r="5" fill="#3572a5"/>
+  <text x="72" y="480" class="font-main legend-item">Python</text>
+  <text x="438" y="480" text-anchor="end" class="font-main legend-pct">6%</text>
   <line x1="48" y1="496" x2="438" y2="496" class="divider"/>
   <circle cx="56" cy="520" r="5" fill="#8b949e"/>
   <text x="72" y="524" class="font-main legend-item">Lainnya</text>
-  <text x="438" y="524" text-anchor="end" class="font-main legend-pct">9%</text>
+  <text x="438" y="524" text-anchor="end" class="font-main legend-pct">10%</text>
   <!-- SECTION D: 12-Week Contribution Heatmap -->
   <rect x="478" y="244" width="438" height="352" rx="12" class="card-bg"/>
   <text x="502" y="280" font-size="15" font-weight="600" class="font-main text-title">Aktivitas 12 minggu</text>
